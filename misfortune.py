@@ -194,3 +194,5 @@ def ics_for_year(year: int) -> str:
         cur += timedelta(days=1)
     lines.append("END:VCALENDAR")
     return "\n".join(lines)
+def build_welcome_image():
+    return "welcome.png"   # имя файла приветственной картинки

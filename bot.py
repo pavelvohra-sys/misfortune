@@ -194,36 +194,40 @@ async def cmd_start(update: Update, context: ContextTypes.DEFAULT_TYPE):
         "<b>HOWL — бот несчастий</b>\n\n"
         "Услышал вой духа? Жми <b>«Гадать сейчас»</b> или <b>«Ввести момент»</b> — дату и время воя.\n"
         "Можно и командой: <code>/howl YYYY-MM-DD [HH:MM]</code>.\n\n"
-        "🇰🇿 Казахстан: Алматы/Астана — <code>/settz Asia/Almaty</code>, Атырау/Актау — <code>/settz Asia/Atyrau</code>"
+        "🇰🇿 Казахстан: Алматы/Астана — <code>/settz Asia/Almaty</code>, "
+        "Атырау/Актау — <code>/settz Asia/Atyrau</code>"
     )
-        import random
+
+    # 👇 блок с каналом — правильный отступ (4 пробела)
+    import random
     if random.random() < 0.2:  # 20% запусков
         caption += (
             "\n\n📢 Кстати, у нас есть канал: "
             "<a href='https://t.me/sinology_ru'>@sinology_ru</a>"
         )
-kb = InlineKeyboardMarkup([
+
+    kb = InlineKeyboardMarkup([
         [InlineKeyboardButton("🔮 Гадать сейчас", callback_data="howl_now")],
         [InlineKeyboardButton("⌚ Ввести момент", callback_data="howl_ask")],
         [InlineKeyboardButton("🧾 Пять последних воев", callback_data="howl_last")],
         [InlineKeyboardButton("⚙️ Тайм-зона (помощь)", callback_data="help_tz")],
     ])
+
     welcome = "welcome.png"
     if os.path.exists(welcome):
-        await update.message.reply_photo(photo=open(welcome, "rb"), caption=caption, reply_markup=kb, parse_mode=ParseMode.HTML)
+        await update.message.reply_photo(
+            photo=open(welcome, "rb"),
+            caption=caption,
+            reply_markup=kb,
+            parse_mode=ParseMode.HTML
+        )
     else:
-        await update.message.reply_text(caption, reply_markup=kb, parse_mode=ParseMode.HTML)
+        await update.message.reply_text(
+            caption,
+            reply_markup=kb,
+            parse_mode=ParseMode.HTML
+        )
 
-async def cmd_help(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    text = (
-        "<b>Доступные команды</b>\n\n"
-        "🔮 <b>/howl</b> [YYYY-MM-DD HH:MM] — гадать по моменту (если без аргументов — «сейчас»)\n"
-        "🧾 <b>/last</b> — последние 5 воев\n"
-        "⚙️ <b>/settz</b> [+N | Region/City] — установить тайм-зону (пример: <code>/settz +6</code> или <code>/settz Asia/Almaty</code>)\n"
-        "📍 <b>/tz</b> — показать текущую тайм-зону и локальное время\n"
-        "🛠️ <b>/diag</b> — диагностика ассетов (для тебя)\n"
-    )
-    await update.message.reply_text(text, parse_mode=ParseMode.HTML)
 
 async def cmd_settz(update: Update, context: ContextTypes.DEFAULT_TYPE):
     if not context.args:

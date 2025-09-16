@@ -227,6 +227,24 @@ async def cmd_start(update: Update, context: ContextTypes.DEFAULT_TYPE):
             reply_markup=kb,
             parse_mode=ParseMode.HTML
         )
+async def cmd_help(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    text = (
+        "<b>Доступные команды</b>\n\n"
+        "🔮 <b>/howl</b> [YYYY-MM-DD HH:MM] — гадать по моменту (если без аргументов — «сейчас»)\n"
+        "🧾 <b>/last</b> — последние 5 воев\n"
+        "⚙️ <b>/settz</b> [+N | Region/City] — установить тайм-зону\n"
+        "📍 <b>/tz</b> — показать текущую тайм-зону и локальное время\n"
+        "🛠️ <b>/diag</b> — диагностика ассетов\n"
+    )
+
+    import random
+    if random.random() < 0.2:  # 20% случаев
+        text += (
+            "\n\n📢 За синологическими мемами заглядывай сюда: "
+            "<a href='https://t.me/sinology_ru'>@sinology_ru</a>"
+        )
+
+    await update.message.reply_text(text, parse_mode=ParseMode.HTML)
 
 
 async def cmd_settz(update: Update, context: ContextTypes.DEFAULT_TYPE):

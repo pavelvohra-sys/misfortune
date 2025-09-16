@@ -193,12 +193,10 @@ async def cmd_start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     caption = (
         "<b>HOWL — бот несчастий</b>\n\n"
         "Услышал вой духа? Жми <b>«Гадать сейчас»</b> или <b>«Ввести момент»</b> — дату и время воя.\n"
-        "Можно и командой: <code>/howl YYYY-MM-DD [HH:MM]</code>.\n\n"
-        "🇰🇿 Казахстан: Алматы/Астана — <code>/settz Asia/Almaty</code>, "
-        "Атырау/Актау — <code>/settz Asia/Atyrau</code>"
+        "Можно и командой: <code>/howl YYYY-MM-DD [HH:MM]</code>."
     )
 
-    # 👇 блок с каналом — правильный отступ (4 пробела)
+    # 👇 рандомная вставка про твой канал
     import random
     if random.random() < 0.2:  # 20% запусков
         caption += (

@@ -107,4 +107,61 @@ async def on_cb(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
     elif data == "howl_ask":
         prompt = "Пришлите момент в формате: <code>YYYY-MM-DD HH:MM</code> (местное время)"
-        await q.message.reply_text(promp_
+        await q.message.reply_text(prompt, reply_markup=ForceReply(selective=True), parse_mode=ParseMode.HTML)
+
+    elif data == "howl_last":
+        await cmd_last(update, context)
+
+# ловим ответ на ForceReply
+async def on_reply_datetime(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    if not update.message or not update.message.reply_to_message:
+        return
+    if "Пришлите момент в формате" not in (update.message.reply_to_message.text or ""):
+        return
+    chat_id = update.effective_chat.id
+    salt = _salt(chat_id)
+    txt = (update.message.text or "").strip()
+    try:
+        if " " in txt:
+            dt = datetime.strptime(txt, "%Y-%m-%d %H:%M")
+        else:
+            dt = datetime.strptime(txt, "%Y-%m-%d")
+    except Exception:
+        await update.message.reply_text("Не понял формат. Пример: <code>2025-10-01 14:30</code>", parse_mode=ParseMode.HTML)
+        return
+    r = read_howl(dt, salt=salt)
+    await update.message.reply_text(render_reading(r), parse_mode=ParseMode.HTML)
+    _record(chat_id, dt, r.doom["code"], r.doom_level)
+
+def main():
+    token = os.getenv("TELEGRAM_TOKEN")
+    if not token:
+        raise SystemExit("Установите TELEGRAM_TOKEN")
+
+    app = Application.builder().token(token).defaults(Defaults(parse_mode=ParseMode.HTML)).build()
+
+    app.add_handler(CommandHandler("start", cmd_start))
+    app.add_handler(CommandHandler("howl", cmd_howl))
+    app.add_handler(CommandHandler("last", cmd_last))
+    app.add_handler(CallbackQueryHandler(on_cb))
+    app.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, on_reply_datetime))
+
+    # Webhook (Render задаёт RENDER_EXTERNAL_URL автоматически)
+    webhook_base = os.getenv("WEBHOOK_URL") or os.getenv("RENDER_EXTERNAL_URL")
+    port = int(os.getenv("PORT", "8080"))
+
+    if webhook_base:
+        webhook_url = webhook_base.rstrip("/") + "/" + token
+        logging.info("Starting webhook at %s", webhook_url)
+        app.run_webhook(
+            listen="0.0.0.0",
+            port=port,
+            url_path=token,
+            webhook_url=webhook_url,
+        )
+    else:
+        logging.info("Starting long polling")
+        app.run_polling()
+
+if __name__ == "__main__":
+    main()

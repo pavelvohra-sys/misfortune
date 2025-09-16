@@ -196,7 +196,13 @@ async def cmd_start(update: Update, context: ContextTypes.DEFAULT_TYPE):
         "Можно и командой: <code>/howl YYYY-MM-DD [HH:MM]</code>.\n\n"
         "🇰🇿 Казахстан: Алматы/Астана — <code>/settz Asia/Almaty</code>, Атырау/Актау — <code>/settz Asia/Atyrau</code>"
     )
-    kb = InlineKeyboardMarkup([
+        import random
+    if random.random() < 0.2:  # 20% запусков
+        caption += (
+            "\n\n📢 Кстати, у нас есть канал: "
+            "<a href='https://t.me/sinology_ru'>@sinology_ru</a>"
+        )
+kb = InlineKeyboardMarkup([
         [InlineKeyboardButton("🔮 Гадать сейчас", callback_data="howl_now")],
         [InlineKeyboardButton("⌚ Ввести момент", callback_data="howl_ask")],
         [InlineKeyboardButton("🧾 Пять последних воев", callback_data="howl_last")],

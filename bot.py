@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 import os, json, logging, glob
+from pathlib import Path
 from datetime import datetime, timezone, timedelta
 from telegram import Update, InlineKeyboardMarkup, InlineKeyboardButton, ForceReply
 from telegram.constants import ParseMode
@@ -8,10 +9,16 @@ from telegram.ext import (
     CallbackQueryHandler, MessageHandler, filters
 )
 
-# импортируем только то, что точно есть
+# импортируем основу из твоей логики
 from misfortune import read_howl, render_reading
 
-# пробуем мягко использовать иконки ветвей, если функции есть
+# пробуем получить список кодов несчастий (для /diag). Если нет — работаем без него.
+try:
+    from misfortune import MISFORTUNES
+except Exception:
+    MISFORTUNES = None
+
+# опциональные иконки ветвей (если функции есть)
 try:
     from misfortune import ensure_icons, icon_filename
 except Exception:
@@ -21,6 +28,7 @@ except Exception:
 # ===== Настройки =====
 TIMEZONE_OFFSET_HOURS = 3   # поправь под свой пояс
 LOCAL_TZ = timezone(timedelta(hours=TIMEZONE_OFFSET_HOURS))
+ASSETS_DIR = os.getenv("ASSETS_DIR", "assets")
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
 
@@ -53,12 +61,49 @@ def _salt(chat_id: int) -> int:
 
 # ===== Медиа-помощники =====
 def pick_doom_image(code: str) -> str | None:
-    """Ищем assets/<code>_*.png или assets/<code>.png"""
-    candidates = sorted(glob.glob(os.path.join("assets", f"{code}_*.png")))
-    if not candidates:
-        one = os.path.join("assets", f"{code}.png")
-        return one if os.path.exists(one) else None
-    return candidates[0]
+    """
+    Ищем: assets/<code>.{png|jpg|jpeg|webp} (любой регистр),
+          assets/<code>_*.ext, assets/<code>-*.ext
+    """
+    base = code.lower()
+    d = ASSETS_DIR
+    if not os.path.isdir(d):
+        logging.warning("assets dir not found: %s", d)
+        return None
+
+    # Соберём каноничный список кандидатов
+    exts = ["png", "jpg", "jpeg", "webp"]
+    patterns = []
+    for ext in exts:
+        patterns += [
+            os.path.join(d, f"{base}.{ext}"),
+            os.path.join(d, f"{base}_*.{ext}"),
+            os.path.join(d, f"{base}-*.{ext}"),
+            os.path.join(d, f"{base}.{ext.upper()}"),
+            os.path.join(d, f"{base}_*.{ext.upper()}"),
+            os.path.join(d, f"{base}-*.{ext.upper()}"),
+        ]
+
+    # Прямые совпадения по glob
+    found = []
+    for pat in patterns:
+        found += glob.glob(pat)
+
+    if found:
+        found.sort()
+        logging.info("picked doom image for %s: %s", code, found[0])
+        return found[0]
+
+    # Фоллбек: пройтись по всем файлам в assets и попробовать матчить по началу имени (без регистра)
+    all_files = [p for p in Path(d).iterdir() if p.is_file()]
+    for p in sorted(all_files):
+        stem = p.stem.lower()   # имя без расширения
+        if stem == base or stem.startswith(base + "_") or stem.startswith(base + "-"):
+            logging.info("fallback picked doom image for %s: %s", code, p)
+            return str(p)
+
+    logging.warning("no doom image for code=%s", code)
+    return None
 
 async def send_with_media(message, text_html: str, doom_code: str, branch_py: str):
     """Пробуем: арт категории -> иконка ветви -> просто текст"""
@@ -133,6 +178,34 @@ async def cmd_howl(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await send_with_media(update.message, render_reading(r), r.doom["code"], r.branch_tuple[1])
     _record(chat_id, dt, r.doom["code"], r.doom_level)
 
+# ===== Диагностика ассетов =====
+async def cmd_diag(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    lines = [f"<b>Проверка ассетов</b> (каталог: <code>{ASSETS_DIR}</code>)"]
+    if not os.path.isdir(ASSETS_DIR):
+        await update.message.reply_text("\n".join(lines + ["Каталог не найден. Убедись, что папка assets в корне репозитория."]), parse_mode=ParseMode.HTML)
+        return
+
+    if MISFORTUNES:
+        miss = []
+        ok = 0
+        for m in MISFORTUNES:
+            code = m.get("code", "").lower().strip()
+            p = pick_doom_image(code)
+            if p and os.path.exists(p):
+                ok += 1
+            else:
+                miss.append(code)
+        lines.append(f"Найдено картинок: <b>{ok}</b> / {len(MISFORTUNES)}")
+        if miss:
+            lines.append("Нет файлов для кодов: " + ", ".join(miss))
+    else:
+        # просто перечислим первые 10 файлов
+        files = sorted([p.name for p in Path(ASSETS_DIR).glob("*") if p.is_file()])[:10]
+        lines.append("Примеры файлов в assets: " + (", ".join(files) if files else "пусто"))
+        lines.append("И проверь, что имена соответствуют кодам из MISFORTUNES.")
+
+    await update.message.reply_text("\n".join(lines), parse_mode=ParseMode.HTML)
+
 # ===== Inline-поток =====
 async def on_cb(update: Update, context: ContextTypes.DEFAULT_TYPE):
     q = update.callback_query
@@ -185,10 +258,10 @@ def main():
     app.add_handler(CommandHandler("start", cmd_start))
     app.add_handler(CommandHandler("howl", cmd_howl))
     app.add_handler(CommandHandler("last", cmd_last))
+    app.add_handler(CommandHandler("diag", cmd_diag))     # <— диагностика ассетов
     app.add_handler(CallbackQueryHandler(on_cb))
     app.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, on_reply_datetime))
 
-    # Webhook (Render подставляет RENDER_EXTERNAL_URL)
     webhook_base = os.getenv("WEBHOOK_URL") or os.getenv("RENDER_EXTERNAL_URL")
     port = int(os.getenv("PORT", "8080"))
     if webhook_base:

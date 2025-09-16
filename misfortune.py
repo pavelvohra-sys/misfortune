@@ -196,3 +196,10 @@ def ics_for_year(year: int) -> str:
     return "\n".join(lines)
 def build_welcome_image():
     return "welcome.png"   # имя файла приветственной картинки
+def doom_image_path(code: str) -> str | None:
+    """Заглушка для картинок несчастий"""
+    return None
+
+def build_welcome_image() -> str | None:
+    """Заглушка для приветственной картинки"""
+    return None

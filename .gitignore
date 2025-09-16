@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+howls.json
+icons/
+.env
+*.pyc

@@ -1,0 +1,2559 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ghost Cry Oracle//ru
+BEGIN:VEVENT
+UID:20250101-chou@ghost-cry
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20250101
+SUMMARY:Несчастье дня: Вскоре последует внезапная смерть старшего родственн...
+DESCRIPTION:丑 chou / чоу. Вскоре последует внезапная смерть старшего родственника. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250102-yin@ghost-cry
+DTSTAMP:20250102T000000Z
+DTSTART;VALUE=DATE:20250102
+SUMMARY:Несчастье дня: Дети в доме вскоре сильно испугаются чего-то.
+DESCRIPTION:寅 yin / инь. Дети в доме вскоре сильно испугаются чего-то. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250103-mao@ghost-cry
+DTSTAMP:20250103T000000Z
+DTSTART;VALUE=DATE:20250103
+SUMMARY:Несчастье дня: Большая катастрофа
+DESCRIPTION:卯 mao / мао. Большая катастрофа — вероятны пожар или наводнение. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250104-chen@ghost-cry
+DTSTAMP:20250104T000000Z
+DTSTART;VALUE=DATE:20250104
+SUMMARY:Несчастье дня: Умрёт беременная женщина.
+DESCRIPTION:辰 chen / чэнь. Умрёт беременная женщина. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250105-si@ghost-cry
+DTSTAMP:20250105T000000Z
+DTSTART;VALUE=DATE:20250105
+SUMMARY:Несчастье дня: Отец или мать уйдут в мир иной.
+DESCRIPTION:巳 si / сы. Отец или мать уйдут в мир иной. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250106-wu@ghost-cry
+DTSTAMP:20250106T000000Z
+DTSTART;VALUE=DATE:20250106
+SUMMARY:Несчастье дня: На человека падут проклятия и беды.
+DESCRIPTION:午 wu / у. На человека падут проклятия и беды. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250107-wei@ghost-cry
+DTSTAMP:20250107T000000Z
+DTSTART;VALUE=DATE:20250107
+SUMMARY:Несчастье дня: Беда случится с младшими членами семьи.
+DESCRIPTION:未 wei / вэй. Беда случится с младшими членами семьи. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250108-shen@ghost-cry
+DTSTAMP:20250108T000000Z
+DTSTART;VALUE=DATE:20250108
+SUMMARY:Несчастье дня: Близка смерть самого человека.
+DESCRIPTION:申 shen / шэнь. Близка смерть самого человека. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250109-you@ghost-cry
+DTSTAMP:20250109T000000Z
+DTSTART;VALUE=DATE:20250109
+SUMMARY:Несчастье дня: Смерть отца или матери неминуема.
+DESCRIPTION:酉 you / ю. Смерть отца или матери неминуема. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250110-xu@ghost-cry
+DTSTAMP:20250110T000000Z
+DTSTART;VALUE=DATE:20250110
+SUMMARY:Несчастье дня: Предрекается чья-то случайная смерть.
+DESCRIPTION:戌 xu / сю. Предрекается чья-то случайная смерть. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250111-hai@ghost-cry
+DTSTAMP:20250111T000000Z
+DTSTART;VALUE=DATE:20250111
+SUMMARY:Несчастье дня: Возможны кража и утрата имущества
+DESCRIPTION:亥 hai / хай. Возможны кража и утрата имущества — берегитесь воров и потерянных вещей. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250112-zi@ghost-cry
+DTSTAMP:20250112T000000Z
+DTSTART;VALUE=DATE:20250112
+SUMMARY:Несчастье дня: Вред для ребёнка или домашних животных.
+DESCRIPTION:子 zi / цзы. Вред для ребёнка или домашних животных. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250113-chou@ghost-cry
+DTSTAMP:20250113T000000Z
+DTSTART;VALUE=DATE:20250113
+SUMMARY:Несчастье дня: Вскоре последует внезапная смерть старшего родственн...
+DESCRIPTION:丑 chou / чоу. Вскоре последует внезапная смерть старшего родственника. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250114-yin@ghost-cry
+DTSTAMP:20250114T000000Z
+DTSTART;VALUE=DATE:20250114
+SUMMARY:Несчастье дня: Дети в доме вскоре сильно испугаются чего-то.
+DESCRIPTION:寅 yin / инь. Дети в доме вскоре сильно испугаются чего-то. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250115-mao@ghost-cry
+DTSTAMP:20250115T000000Z
+DTSTART;VALUE=DATE:20250115
+SUMMARY:Несчастье дня: Большая катастрофа
+DESCRIPTION:卯 mao / мао. Большая катастрофа — вероятны пожар или наводнение. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250116-chen@ghost-cry
+DTSTAMP:20250116T000000Z
+DTSTART;VALUE=DATE:20250116
+SUMMARY:Несчастье дня: Умрёт беременная женщина.
+DESCRIPTION:辰 chen / чэнь. Умрёт беременная женщина. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250117-si@ghost-cry
+DTSTAMP:20250117T000000Z
+DTSTART;VALUE=DATE:20250117
+SUMMARY:Несчастье дня: Отец или мать уйдут в мир иной.
+DESCRIPTION:巳 si / сы. Отец или мать уйдут в мир иной. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250118-wu@ghost-cry
+DTSTAMP:20250118T000000Z
+DTSTART;VALUE=DATE:20250118
+SUMMARY:Несчастье дня: На человека падут проклятия и беды.
+DESCRIPTION:午 wu / у. На человека падут проклятия и беды. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250119-wei@ghost-cry
+DTSTAMP:20250119T000000Z
+DTSTART;VALUE=DATE:20250119
+SUMMARY:Несчастье дня: Беда случится с младшими членами семьи.
+DESCRIPTION:未 wei / вэй. Беда случится с младшими членами семьи. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250120-shen@ghost-cry
+DTSTAMP:20250120T000000Z
+DTSTART;VALUE=DATE:20250120
+SUMMARY:Несчастье дня: Близка смерть самого человека.
+DESCRIPTION:申 shen / шэнь. Близка смерть самого человека. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250121-you@ghost-cry
+DTSTAMP:20250121T000000Z
+DTSTART;VALUE=DATE:20250121
+SUMMARY:Несчастье дня: Смерть отца или матери неминуема.
+DESCRIPTION:酉 you / ю. Смерть отца или матери неминуема. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250122-xu@ghost-cry
+DTSTAMP:20250122T000000Z
+DTSTART;VALUE=DATE:20250122
+SUMMARY:Несчастье дня: Предрекается чья-то случайная смерть.
+DESCRIPTION:戌 xu / сю. Предрекается чья-то случайная смерть. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250123-hai@ghost-cry
+DTSTAMP:20250123T000000Z
+DTSTART;VALUE=DATE:20250123
+SUMMARY:Несчастье дня: Возможны кража и утрата имущества
+DESCRIPTION:亥 hai / хай. Возможны кража и утрата имущества — берегитесь воров и потерянных вещей. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250124-zi@ghost-cry
+DTSTAMP:20250124T000000Z
+DTSTART;VALUE=DATE:20250124
+SUMMARY:Несчастье дня: Вред для ребёнка или домашних животных.
+DESCRIPTION:子 zi / цзы. Вред для ребёнка или домашних животных. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250125-chou@ghost-cry
+DTSTAMP:20250125T000000Z
+DTSTART;VALUE=DATE:20250125
+SUMMARY:Несчастье дня: Вскоре последует внезапная смерть старшего родственн...
+DESCRIPTION:丑 chou / чоу. Вскоре последует внезапная смерть старшего родственника. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250126-yin@ghost-cry
+DTSTAMP:20250126T000000Z
+DTSTART;VALUE=DATE:20250126
+SUMMARY:Несчастье дня: Дети в доме вскоре сильно испугаются чего-то.
+DESCRIPTION:寅 yin / инь. Дети в доме вскоре сильно испугаются чего-то. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250127-mao@ghost-cry
+DTSTAMP:20250127T000000Z
+DTSTART;VALUE=DATE:20250127
+SUMMARY:Несчастье дня: Большая катастрофа
+DESCRIPTION:卯 mao / мао. Большая катастрофа — вероятны пожар или наводнение. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250128-chen@ghost-cry
+DTSTAMP:20250128T000000Z
+DTSTART;VALUE=DATE:20250128
+SUMMARY:Несчастье дня: Умрёт беременная женщина.
+DESCRIPTION:辰 chen / чэнь. Умрёт беременная женщина. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250129-si@ghost-cry
+DTSTAMP:20250129T000000Z
+DTSTART;VALUE=DATE:20250129
+SUMMARY:Несчастье дня: Отец или мать уйдут в мир иной.
+DESCRIPTION:巳 si / сы. Отец или мать уйдут в мир иной. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250130-wu@ghost-cry
+DTSTAMP:20250130T000000Z
+DTSTART;VALUE=DATE:20250130
+SUMMARY:Несчастье дня: На человека падут проклятия и беды.
+DESCRIPTION:午 wu / у. На человека падут проклятия и беды. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250131-wei@ghost-cry
+DTSTAMP:20250131T000000Z
+DTSTART;VALUE=DATE:20250131
+SUMMARY:Несчастье дня: Беда случится с младшими членами семьи.
+DESCRIPTION:未 wei / вэй. Беда случится с младшими членами семьи. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250201-shen@ghost-cry
+DTSTAMP:20250201T000000Z
+DTSTART;VALUE=DATE:20250201
+SUMMARY:Несчастье дня: Близка смерть самого человека.
+DESCRIPTION:申 shen / шэнь. Близка смерть самого человека. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250202-you@ghost-cry
+DTSTAMP:20250202T000000Z
+DTSTART;VALUE=DATE:20250202
+SUMMARY:Несчастье дня: Смерть отца или матери неминуема.
+DESCRIPTION:酉 you / ю. Смерть отца или матери неминуема. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250203-xu@ghost-cry
+DTSTAMP:20250203T000000Z
+DTSTART;VALUE=DATE:20250203
+SUMMARY:Несчастье дня: Предрекается чья-то случайная смерть.
+DESCRIPTION:戌 xu / сю. Предрекается чья-то случайная смерть. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250204-hai@ghost-cry
+DTSTAMP:20250204T000000Z
+DTSTART;VALUE=DATE:20250204
+SUMMARY:Несчастье дня: Возможны кража и утрата имущества
+DESCRIPTION:亥 hai / хай. Возможны кража и утрата имущества — берегитесь воров и потерянных вещей. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250205-zi@ghost-cry
+DTSTAMP:20250205T000000Z
+DTSTART;VALUE=DATE:20250205
+SUMMARY:Несчастье дня: Вред для ребёнка или домашних животных.
+DESCRIPTION:子 zi / цзы. Вред для ребёнка или домашних животных. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250206-chou@ghost-cry
+DTSTAMP:20250206T000000Z
+DTSTART;VALUE=DATE:20250206
+SUMMARY:Несчастье дня: Вскоре последует внезапная смерть старшего родственн...
+DESCRIPTION:丑 chou / чоу. Вскоре последует внезапная смерть старшего родственника. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250207-yin@ghost-cry
+DTSTAMP:20250207T000000Z
+DTSTART;VALUE=DATE:20250207
+SUMMARY:Несчастье дня: Дети в доме вскоре сильно испугаются чего-то.
+DESCRIPTION:寅 yin / инь. Дети в доме вскоре сильно испугаются чего-то. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250208-mao@ghost-cry
+DTSTAMP:20250208T000000Z
+DTSTART;VALUE=DATE:20250208
+SUMMARY:Несчастье дня: Большая катастрофа
+DESCRIPTION:卯 mao / мао. Большая катастрофа — вероятны пожар или наводнение. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250209-chen@ghost-cry
+DTSTAMP:20250209T000000Z
+DTSTART;VALUE=DATE:20250209
+SUMMARY:Несчастье дня: Умрёт беременная женщина.
+DESCRIPTION:辰 chen / чэнь. Умрёт беременная женщина. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250210-si@ghost-cry
+DTSTAMP:20250210T000000Z
+DTSTART;VALUE=DATE:20250210
+SUMMARY:Несчастье дня: Отец или мать уйдут в мир иной.
+DESCRIPTION:巳 si / сы. Отец или мать уйдут в мир иной. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250211-wu@ghost-cry
+DTSTAMP:20250211T000000Z
+DTSTART;VALUE=DATE:20250211
+SUMMARY:Несчастье дня: На человека падут проклятия и беды.
+DESCRIPTION:午 wu / у. На человека падут проклятия и беды. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250212-wei@ghost-cry
+DTSTAMP:20250212T000000Z
+DTSTART;VALUE=DATE:20250212
+SUMMARY:Несчастье дня: Беда случится с младшими членами семьи.
+DESCRIPTION:未 wei / вэй. Беда случится с младшими членами семьи. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250213-shen@ghost-cry
+DTSTAMP:20250213T000000Z
+DTSTART;VALUE=DATE:20250213
+SUMMARY:Несчастье дня: Близка смерть самого человека.
+DESCRIPTION:申 shen / шэнь. Близка смерть самого человека. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250214-you@ghost-cry
+DTSTAMP:20250214T000000Z
+DTSTART;VALUE=DATE:20250214
+SUMMARY:Несчастье дня: Смерть отца или матери неминуема.
+DESCRIPTION:酉 you / ю. Смерть отца или матери неминуема. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250215-xu@ghost-cry
+DTSTAMP:20250215T000000Z
+DTSTART;VALUE=DATE:20250215
+SUMMARY:Несчастье дня: Предрекается чья-то случайная смерть.
+DESCRIPTION:戌 xu / сю. Предрекается чья-то случайная смерть. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250216-hai@ghost-cry
+DTSTAMP:20250216T000000Z
+DTSTART;VALUE=DATE:20250216
+SUMMARY:Несчастье дня: Возможны кража и утрата имущества
+DESCRIPTION:亥 hai / хай. Возможны кража и утрата имущества — берегитесь воров и потерянных вещей. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250217-zi@ghost-cry
+DTSTAMP:20250217T000000Z
+DTSTART;VALUE=DATE:20250217
+SUMMARY:Несчастье дня: Вред для ребёнка или домашних животных.
+DESCRIPTION:子 zi / цзы. Вред для ребёнка или домашних животных. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250218-chou@ghost-cry
+DTSTAMP:20250218T000000Z
+DTSTART;VALUE=DATE:20250218
+SUMMARY:Несчастье дня: Вскоре последует внезапная смерть старшего родственн...
+DESCRIPTION:丑 chou / чоу. Вскоре последует внезапная смерть старшего родственника. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250219-yin@ghost-cry
+DTSTAMP:20250219T000000Z
+DTSTART;VALUE=DATE:20250219
+SUMMARY:Несчастье дня: Дети в доме вскоре сильно испугаются чего-то.
+DESCRIPTION:寅 yin / инь. Дети в доме вскоре сильно испугаются чего-то. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250220-mao@ghost-cry
+DTSTAMP:20250220T000000Z
+DTSTART;VALUE=DATE:20250220
+SUMMARY:Несчастье дня: Большая катастрофа
+DESCRIPTION:卯 mao / мао. Большая катастрофа — вероятны пожар или наводнение. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250221-chen@ghost-cry
+DTSTAMP:20250221T000000Z
+DTSTART;VALUE=DATE:20250221
+SUMMARY:Несчастье дня: Умрёт беременная женщина.
+DESCRIPTION:辰 chen / чэнь. Умрёт беременная женщина. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250222-si@ghost-cry
+DTSTAMP:20250222T000000Z
+DTSTART;VALUE=DATE:20250222
+SUMMARY:Несчастье дня: Отец или мать уйдут в мир иной.
+DESCRIPTION:巳 si / сы. Отец или мать уйдут в мир иной. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250223-wu@ghost-cry
+DTSTAMP:20250223T000000Z
+DTSTART;VALUE=DATE:20250223
+SUMMARY:Несчастье дня: На человека падут проклятия и беды.
+DESCRIPTION:午 wu / у. На человека падут проклятия и беды. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250224-wei@ghost-cry
+DTSTAMP:20250224T000000Z
+DTSTART;VALUE=DATE:20250224
+SUMMARY:Несчастье дня: Беда случится с младшими членами семьи.
+DESCRIPTION:未 wei / вэй. Беда случится с младшими членами семьи. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250225-shen@ghost-cry
+DTSTAMP:20250225T000000Z
+DTSTART;VALUE=DATE:20250225
+SUMMARY:Несчастье дня: Близка смерть самого человека.
+DESCRIPTION:申 shen / шэнь. Близка смерть самого человека. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250226-you@ghost-cry
+DTSTAMP:20250226T000000Z
+DTSTART;VALUE=DATE:20250226
+SUMMARY:Несчастье дня: Смерть отца или матери неминуема.
+DESCRIPTION:酉 you / ю. Смерть отца или матери неминуема. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250227-xu@ghost-cry
+DTSTAMP:20250227T000000Z
+DTSTART;VALUE=DATE:20250227
+SUMMARY:Несчастье дня: Предрекается чья-то случайная смерть.
+DESCRIPTION:戌 xu / сю. Предрекается чья-то случайная смерть. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250228-hai@ghost-cry
+DTSTAMP:20250228T000000Z
+DTSTART;VALUE=DATE:20250228
+SUMMARY:Несчастье дня: Возможны кража и утрата имущества
+DESCRIPTION:亥 hai / хай. Возможны кража и утрата имущества — берегитесь воров и потерянных вещей. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250301-zi@ghost-cry
+DTSTAMP:20250301T000000Z
+DTSTART;VALUE=DATE:20250301
+SUMMARY:Несчастье дня: Вред для ребёнка или домашних животных.
+DESCRIPTION:子 zi / цзы. Вред для ребёнка или домашних животных. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250302-chou@ghost-cry
+DTSTAMP:20250302T000000Z
+DTSTART;VALUE=DATE:20250302
+SUMMARY:Несчастье дня: Вскоре последует внезапная смерть старшего родственн...
+DESCRIPTION:丑 chou / чоу. Вскоре последует внезапная смерть старшего родственника. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250303-yin@ghost-cry
+DTSTAMP:20250303T000000Z
+DTSTART;VALUE=DATE:20250303
+SUMMARY:Несчастье дня: Дети в доме вскоре сильно испугаются чего-то.
+DESCRIPTION:寅 yin / инь. Дети в доме вскоре сильно испугаются чего-то. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250304-mao@ghost-cry
+DTSTAMP:20250304T000000Z
+DTSTART;VALUE=DATE:20250304
+SUMMARY:Несчастье дня: Большая катастрофа
+DESCRIPTION:卯 mao / мао. Большая катастрофа — вероятны пожар или наводнение. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250305-chen@ghost-cry
+DTSTAMP:20250305T000000Z
+DTSTART;VALUE=DATE:20250305
+SUMMARY:Несчастье дня: Умрёт беременная женщина.
+DESCRIPTION:辰 chen / чэнь. Умрёт беременная женщина. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250306-si@ghost-cry
+DTSTAMP:20250306T000000Z
+DTSTART;VALUE=DATE:20250306
+SUMMARY:Несчастье дня: Отец или мать уйдут в мир иной.
+DESCRIPTION:巳 si / сы. Отец или мать уйдут в мир иной. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250307-wu@ghost-cry
+DTSTAMP:20250307T000000Z
+DTSTART;VALUE=DATE:20250307
+SUMMARY:Несчастье дня: На человека падут проклятия и беды.
+DESCRIPTION:午 wu / у. На человека падут проклятия и беды. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250308-wei@ghost-cry
+DTSTAMP:20250308T000000Z
+DTSTART;VALUE=DATE:20250308
+SUMMARY:Несчастье дня: Беда случится с младшими членами семьи.
+DESCRIPTION:未 wei / вэй. Беда случится с младшими членами семьи. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250309-shen@ghost-cry
+DTSTAMP:20250309T000000Z
+DTSTART;VALUE=DATE:20250309
+SUMMARY:Несчастье дня: Близка смерть самого человека.
+DESCRIPTION:申 shen / шэнь. Близка смерть самого человека. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250310-you@ghost-cry
+DTSTAMP:20250310T000000Z
+DTSTART;VALUE=DATE:20250310
+SUMMARY:Несчастье дня: Смерть отца или матери неминуема.
+DESCRIPTION:酉 you / ю. Смерть отца или матери неминуема. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250311-xu@ghost-cry
+DTSTAMP:20250311T000000Z
+DTSTART;VALUE=DATE:20250311
+SUMMARY:Несчастье дня: Предрекается чья-то случайная смерть.
+DESCRIPTION:戌 xu / сю. Предрекается чья-то случайная смерть. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250312-hai@ghost-cry
+DTSTAMP:20250312T000000Z
+DTSTART;VALUE=DATE:20250312
+SUMMARY:Несчастье дня: Возможны кража и утрата имущества
+DESCRIPTION:亥 hai / хай. Возможны кража и утрата имущества — берегитесь воров и потерянных вещей. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250313-zi@ghost-cry
+DTSTAMP:20250313T000000Z
+DTSTART;VALUE=DATE:20250313
+SUMMARY:Несчастье дня: Вред для ребёнка или домашних животных.
+DESCRIPTION:子 zi / цзы. Вред для ребёнка или домашних животных. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250314-chou@ghost-cry
+DTSTAMP:20250314T000000Z
+DTSTART;VALUE=DATE:20250314
+SUMMARY:Несчастье дня: Вскоре последует внезапная смерть старшего родственн...
+DESCRIPTION:丑 chou / чоу. Вскоре последует внезапная смерть старшего родственника. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250315-yin@ghost-cry
+DTSTAMP:20250315T000000Z
+DTSTART;VALUE=DATE:20250315
+SUMMARY:Несчастье дня: Дети в доме вскоре сильно испугаются чего-то.
+DESCRIPTION:寅 yin / инь. Дети в доме вскоре сильно испугаются чего-то. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250316-mao@ghost-cry
+DTSTAMP:20250316T000000Z
+DTSTART;VALUE=DATE:20250316
+SUMMARY:Несчастье дня: Большая катастрофа
+DESCRIPTION:卯 mao / мао. Большая катастрофа — вероятны пожар или наводнение. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250317-chen@ghost-cry
+DTSTAMP:20250317T000000Z
+DTSTART;VALUE=DATE:20250317
+SUMMARY:Несчастье дня: Умрёт беременная женщина.
+DESCRIPTION:辰 chen / чэнь. Умрёт беременная женщина. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250318-si@ghost-cry
+DTSTAMP:20250318T000000Z
+DTSTART;VALUE=DATE:20250318
+SUMMARY:Несчастье дня: Отец или мать уйдут в мир иной.
+DESCRIPTION:巳 si / сы. Отец или мать уйдут в мир иной. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250319-wu@ghost-cry
+DTSTAMP:20250319T000000Z
+DTSTART;VALUE=DATE:20250319
+SUMMARY:Несчастье дня: На человека падут проклятия и беды.
+DESCRIPTION:午 wu / у. На человека падут проклятия и беды. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250320-wei@ghost-cry
+DTSTAMP:20250320T000000Z
+DTSTART;VALUE=DATE:20250320
+SUMMARY:Несчастье дня: Беда случится с младшими членами семьи.
+DESCRIPTION:未 wei / вэй. Беда случится с младшими членами семьи. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250321-shen@ghost-cry
+DTSTAMP:20250321T000000Z
+DTSTART;VALUE=DATE:20250321
+SUMMARY:Несчастье дня: Близка смерть самого человека.
+DESCRIPTION:申 shen / шэнь. Близка смерть самого человека. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250322-you@ghost-cry
+DTSTAMP:20250322T000000Z
+DTSTART;VALUE=DATE:20250322
+SUMMARY:Несчастье дня: Смерть отца или матери неминуема.
+DESCRIPTION:酉 you / ю. Смерть отца или матери неминуема. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250323-xu@ghost-cry
+DTSTAMP:20250323T000000Z
+DTSTART;VALUE=DATE:20250323
+SUMMARY:Несчастье дня: Предрекается чья-то случайная смерть.
+DESCRIPTION:戌 xu / сю. Предрекается чья-то случайная смерть. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250324-hai@ghost-cry
+DTSTAMP:20250324T000000Z
+DTSTART;VALUE=DATE:20250324
+SUMMARY:Несчастье дня: Возможны кража и утрата имущества
+DESCRIPTION:亥 hai / хай. Возможны кража и утрата имущества — берегитесь воров и потерянных вещей. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250325-zi@ghost-cry
+DTSTAMP:20250325T000000Z
+DTSTART;VALUE=DATE:20250325
+SUMMARY:Несчастье дня: Вред для ребёнка или домашних животных.
+DESCRIPTION:子 zi / цзы. Вред для ребёнка или домашних животных. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250326-chou@ghost-cry
+DTSTAMP:20250326T000000Z
+DTSTART;VALUE=DATE:20250326
+SUMMARY:Несчастье дня: Вскоре последует внезапная смерть старшего родственн...
+DESCRIPTION:丑 chou / чоу. Вскоре последует внезапная смерть старшего родственника. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250327-yin@ghost-cry
+DTSTAMP:20250327T000000Z
+DTSTART;VALUE=DATE:20250327
+SUMMARY:Несчастье дня: Дети в доме вскоре сильно испугаются чего-то.
+DESCRIPTION:寅 yin / инь. Дети в доме вскоре сильно испугаются чего-то. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250328-mao@ghost-cry
+DTSTAMP:20250328T000000Z
+DTSTART;VALUE=DATE:20250328
+SUMMARY:Несчастье дня: Большая катастрофа
+DESCRIPTION:卯 mao / мао. Большая катастрофа — вероятны пожар или наводнение. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250329-chen@ghost-cry
+DTSTAMP:20250329T000000Z
+DTSTART;VALUE=DATE:20250329
+SUMMARY:Несчастье дня: Умрёт беременная женщина.
+DESCRIPTION:辰 chen / чэнь. Умрёт беременная женщина. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250330-si@ghost-cry
+DTSTAMP:20250330T000000Z
+DTSTART;VALUE=DATE:20250330
+SUMMARY:Несчастье дня: Отец или мать уйдут в мир иной.
+DESCRIPTION:巳 si / сы. Отец или мать уйдут в мир иной. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250331-wu@ghost-cry
+DTSTAMP:20250331T000000Z
+DTSTART;VALUE=DATE:20250331
+SUMMARY:Несчастье дня: На человека падут проклятия и беды.
+DESCRIPTION:午 wu / у. На человека падут проклятия и беды. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250401-wei@ghost-cry
+DTSTAMP:20250401T000000Z
+DTSTART;VALUE=DATE:20250401
+SUMMARY:Несчастье дня: Беда случится с младшими членами семьи.
+DESCRIPTION:未 wei / вэй. Беда случится с младшими членами семьи. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250402-shen@ghost-cry
+DTSTAMP:20250402T000000Z
+DTSTART;VALUE=DATE:20250402
+SUMMARY:Несчастье дня: Близка смерть самого человека.
+DESCRIPTION:申 shen / шэнь. Близка смерть самого человека. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250403-you@ghost-cry
+DTSTAMP:20250403T000000Z
+DTSTART;VALUE=DATE:20250403
+SUMMARY:Несчастье дня: Смерть отца или матери неминуема.
+DESCRIPTION:酉 you / ю. Смерть отца или матери неминуема. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250404-xu@ghost-cry
+DTSTAMP:20250404T000000Z
+DTSTART;VALUE=DATE:20250404
+SUMMARY:Несчастье дня: Предрекается чья-то случайная смерть.
+DESCRIPTION:戌 xu / сю. Предрекается чья-то случайная смерть. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250405-hai@ghost-cry
+DTSTAMP:20250405T000000Z
+DTSTART;VALUE=DATE:20250405
+SUMMARY:Несчастье дня: Возможны кража и утрата имущества
+DESCRIPTION:亥 hai / хай. Возможны кража и утрата имущества — берегитесь воров и потерянных вещей. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250406-zi@ghost-cry
+DTSTAMP:20250406T000000Z
+DTSTART;VALUE=DATE:20250406
+SUMMARY:Несчастье дня: Вред для ребёнка или домашних животных.
+DESCRIPTION:子 zi / цзы. Вред для ребёнка или домашних животных. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250407-chou@ghost-cry
+DTSTAMP:20250407T000000Z
+DTSTART;VALUE=DATE:20250407
+SUMMARY:Несчастье дня: Вскоре последует внезапная смерть старшего родственн...
+DESCRIPTION:丑 chou / чоу. Вскоре последует внезапная смерть старшего родственника. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250408-yin@ghost-cry
+DTSTAMP:20250408T000000Z
+DTSTART;VALUE=DATE:20250408
+SUMMARY:Несчастье дня: Дети в доме вскоре сильно испугаются чего-то.
+DESCRIPTION:寅 yin / инь. Дети в доме вскоре сильно испугаются чего-то. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250409-mao@ghost-cry
+DTSTAMP:20250409T000000Z
+DTSTART;VALUE=DATE:20250409
+SUMMARY:Несчастье дня: Большая катастрофа
+DESCRIPTION:卯 mao / мао. Большая катастрофа — вероятны пожар или наводнение. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250410-chen@ghost-cry
+DTSTAMP:20250410T000000Z
+DTSTART;VALUE=DATE:20250410
+SUMMARY:Несчастье дня: Умрёт беременная женщина.
+DESCRIPTION:辰 chen / чэнь. Умрёт беременная женщина. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250411-si@ghost-cry
+DTSTAMP:20250411T000000Z
+DTSTART;VALUE=DATE:20250411
+SUMMARY:Несчастье дня: Отец или мать уйдут в мир иной.
+DESCRIPTION:巳 si / сы. Отец или мать уйдут в мир иной. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250412-wu@ghost-cry
+DTSTAMP:20250412T000000Z
+DTSTART;VALUE=DATE:20250412
+SUMMARY:Несчастье дня: На человека падут проклятия и беды.
+DESCRIPTION:午 wu / у. На человека падут проклятия и беды. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250413-wei@ghost-cry
+DTSTAMP:20250413T000000Z
+DTSTART;VALUE=DATE:20250413
+SUMMARY:Несчастье дня: Беда случится с младшими членами семьи.
+DESCRIPTION:未 wei / вэй. Беда случится с младшими членами семьи. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250414-shen@ghost-cry
+DTSTAMP:20250414T000000Z
+DTSTART;VALUE=DATE:20250414
+SUMMARY:Несчастье дня: Близка смерть самого человека.
+DESCRIPTION:申 shen / шэнь. Близка смерть самого человека. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250415-you@ghost-cry
+DTSTAMP:20250415T000000Z
+DTSTART;VALUE=DATE:20250415
+SUMMARY:Несчастье дня: Смерть отца или матери неминуема.
+DESCRIPTION:酉 you / ю. Смерть отца или матери неминуема. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250416-xu@ghost-cry
+DTSTAMP:20250416T000000Z
+DTSTART;VALUE=DATE:20250416
+SUMMARY:Несчастье дня: Предрекается чья-то случайная смерть.
+DESCRIPTION:戌 xu / сю. Предрекается чья-то случайная смерть. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250417-hai@ghost-cry
+DTSTAMP:20250417T000000Z
+DTSTART;VALUE=DATE:20250417
+SUMMARY:Несчастье дня: Возможны кража и утрата имущества
+DESCRIPTION:亥 hai / хай. Возможны кража и утрата имущества — берегитесь воров и потерянных вещей. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250418-zi@ghost-cry
+DTSTAMP:20250418T000000Z
+DTSTART;VALUE=DATE:20250418
+SUMMARY:Несчастье дня: Вред для ребёнка или домашних животных.
+DESCRIPTION:子 zi / цзы. Вред для ребёнка или домашних животных. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250419-chou@ghost-cry
+DTSTAMP:20250419T000000Z
+DTSTART;VALUE=DATE:20250419
+SUMMARY:Несчастье дня: Вскоре последует внезапная смерть старшего родственн...
+DESCRIPTION:丑 chou / чоу. Вскоре последует внезапная смерть старшего родственника. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250420-yin@ghost-cry
+DTSTAMP:20250420T000000Z
+DTSTART;VALUE=DATE:20250420
+SUMMARY:Несчастье дня: Дети в доме вскоре сильно испугаются чего-то.
+DESCRIPTION:寅 yin / инь. Дети в доме вскоре сильно испугаются чего-то. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250421-mao@ghost-cry
+DTSTAMP:20250421T000000Z
+DTSTART;VALUE=DATE:20250421
+SUMMARY:Несчастье дня: Большая катастрофа
+DESCRIPTION:卯 mao / мао. Большая катастрофа — вероятны пожар или наводнение. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250422-chen@ghost-cry
+DTSTAMP:20250422T000000Z
+DTSTART;VALUE=DATE:20250422
+SUMMARY:Несчастье дня: Умрёт беременная женщина.
+DESCRIPTION:辰 chen / чэнь. Умрёт беременная женщина. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250423-si@ghost-cry
+DTSTAMP:20250423T000000Z
+DTSTART;VALUE=DATE:20250423
+SUMMARY:Несчастье дня: Отец или мать уйдут в мир иной.
+DESCRIPTION:巳 si / сы. Отец или мать уйдут в мир иной. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250424-wu@ghost-cry
+DTSTAMP:20250424T000000Z
+DTSTART;VALUE=DATE:20250424
+SUMMARY:Несчастье дня: На человека падут проклятия и беды.
+DESCRIPTION:午 wu / у. На человека падут проклятия и беды. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250425-wei@ghost-cry
+DTSTAMP:20250425T000000Z
+DTSTART;VALUE=DATE:20250425
+SUMMARY:Несчастье дня: Беда случится с младшими членами семьи.
+DESCRIPTION:未 wei / вэй. Беда случится с младшими членами семьи. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250426-shen@ghost-cry
+DTSTAMP:20250426T000000Z
+DTSTART;VALUE=DATE:20250426
+SUMMARY:Несчастье дня: Близка смерть самого человека.
+DESCRIPTION:申 shen / шэнь. Близка смерть самого человека. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250427-you@ghost-cry
+DTSTAMP:20250427T000000Z
+DTSTART;VALUE=DATE:20250427
+SUMMARY:Несчастье дня: Смерть отца или матери неминуема.
+DESCRIPTION:酉 you / ю. Смерть отца или матери неминуема. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250428-xu@ghost-cry
+DTSTAMP:20250428T000000Z
+DTSTART;VALUE=DATE:20250428
+SUMMARY:Несчастье дня: Предрекается чья-то случайная смерть.
+DESCRIPTION:戌 xu / сю. Предрекается чья-то случайная смерть. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250429-hai@ghost-cry
+DTSTAMP:20250429T000000Z
+DTSTART;VALUE=DATE:20250429
+SUMMARY:Несчастье дня: Возможны кража и утрата имущества
+DESCRIPTION:亥 hai / хай. Возможны кража и утрата имущества — берегитесь воров и потерянных вещей. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250430-zi@ghost-cry
+DTSTAMP:20250430T000000Z
+DTSTART;VALUE=DATE:20250430
+SUMMARY:Несчастье дня: Вред для ребёнка или домашних животных.
+DESCRIPTION:子 zi / цзы. Вред для ребёнка или домашних животных. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250501-chou@ghost-cry
+DTSTAMP:20250501T000000Z
+DTSTART;VALUE=DATE:20250501
+SUMMARY:Несчастье дня: Вскоре последует внезапная смерть старшего родственн...
+DESCRIPTION:丑 chou / чоу. Вскоре последует внезапная смерть старшего родственника. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250502-yin@ghost-cry
+DTSTAMP:20250502T000000Z
+DTSTART;VALUE=DATE:20250502
+SUMMARY:Несчастье дня: Дети в доме вскоре сильно испугаются чего-то.
+DESCRIPTION:寅 yin / инь. Дети в доме вскоре сильно испугаются чего-то. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250503-mao@ghost-cry
+DTSTAMP:20250503T000000Z
+DTSTART;VALUE=DATE:20250503
+SUMMARY:Несчастье дня: Большая катастрофа
+DESCRIPTION:卯 mao / мао. Большая катастрофа — вероятны пожар или наводнение. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250504-chen@ghost-cry
+DTSTAMP:20250504T000000Z
+DTSTART;VALUE=DATE:20250504
+SUMMARY:Несчастье дня: Умрёт беременная женщина.
+DESCRIPTION:辰 chen / чэнь. Умрёт беременная женщина. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250505-si@ghost-cry
+DTSTAMP:20250505T000000Z
+DTSTART;VALUE=DATE:20250505
+SUMMARY:Несчастье дня: Отец или мать уйдут в мир иной.
+DESCRIPTION:巳 si / сы. Отец или мать уйдут в мир иной. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250506-wu@ghost-cry
+DTSTAMP:20250506T000000Z
+DTSTART;VALUE=DATE:20250506
+SUMMARY:Несчастье дня: На человека падут проклятия и беды.
+DESCRIPTION:午 wu / у. На человека падут проклятия и беды. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250507-wei@ghost-cry
+DTSTAMP:20250507T000000Z
+DTSTART;VALUE=DATE:20250507
+SUMMARY:Несчастье дня: Беда случится с младшими членами семьи.
+DESCRIPTION:未 wei / вэй. Беда случится с младшими членами семьи. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250508-shen@ghost-cry
+DTSTAMP:20250508T000000Z
+DTSTART;VALUE=DATE:20250508
+SUMMARY:Несчастье дня: Близка смерть самого человека.
+DESCRIPTION:申 shen / шэнь. Близка смерть самого человека. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250509-you@ghost-cry
+DTSTAMP:20250509T000000Z
+DTSTART;VALUE=DATE:20250509
+SUMMARY:Несчастье дня: Смерть отца или матери неминуема.
+DESCRIPTION:酉 you / ю. Смерть отца или матери неминуема. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250510-xu@ghost-cry
+DTSTAMP:20250510T000000Z
+DTSTART;VALUE=DATE:20250510
+SUMMARY:Несчастье дня: Предрекается чья-то случайная смерть.
+DESCRIPTION:戌 xu / сю. Предрекается чья-то случайная смерть. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250511-hai@ghost-cry
+DTSTAMP:20250511T000000Z
+DTSTART;VALUE=DATE:20250511
+SUMMARY:Несчастье дня: Возможны кража и утрата имущества
+DESCRIPTION:亥 hai / хай. Возможны кража и утрата имущества — берегитесь воров и потерянных вещей. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250512-zi@ghost-cry
+DTSTAMP:20250512T000000Z
+DTSTART;VALUE=DATE:20250512
+SUMMARY:Несчастье дня: Вред для ребёнка или домашних животных.
+DESCRIPTION:子 zi / цзы. Вред для ребёнка или домашних животных. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250513-chou@ghost-cry
+DTSTAMP:20250513T000000Z
+DTSTART;VALUE=DATE:20250513
+SUMMARY:Несчастье дня: Вскоре последует внезапная смерть старшего родственн...
+DESCRIPTION:丑 chou / чоу. Вскоре последует внезапная смерть старшего родственника. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250514-yin@ghost-cry
+DTSTAMP:20250514T000000Z
+DTSTART;VALUE=DATE:20250514
+SUMMARY:Несчастье дня: Дети в доме вскоре сильно испугаются чего-то.
+DESCRIPTION:寅 yin / инь. Дети в доме вскоре сильно испугаются чего-то. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250515-mao@ghost-cry
+DTSTAMP:20250515T000000Z
+DTSTART;VALUE=DATE:20250515
+SUMMARY:Несчастье дня: Большая катастрофа
+DESCRIPTION:卯 mao / мао. Большая катастрофа — вероятны пожар или наводнение. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250516-chen@ghost-cry
+DTSTAMP:20250516T000000Z
+DTSTART;VALUE=DATE:20250516
+SUMMARY:Несчастье дня: Умрёт беременная женщина.
+DESCRIPTION:辰 chen / чэнь. Умрёт беременная женщина. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250517-si@ghost-cry
+DTSTAMP:20250517T000000Z
+DTSTART;VALUE=DATE:20250517
+SUMMARY:Несчастье дня: Отец или мать уйдут в мир иной.
+DESCRIPTION:巳 si / сы. Отец или мать уйдут в мир иной. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250518-wu@ghost-cry
+DTSTAMP:20250518T000000Z
+DTSTART;VALUE=DATE:20250518
+SUMMARY:Несчастье дня: На человека падут проклятия и беды.
+DESCRIPTION:午 wu / у. На человека падут проклятия и беды. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250519-wei@ghost-cry
+DTSTAMP:20250519T000000Z
+DTSTART;VALUE=DATE:20250519
+SUMMARY:Несчастье дня: Беда случится с младшими членами семьи.
+DESCRIPTION:未 wei / вэй. Беда случится с младшими членами семьи. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250520-shen@ghost-cry
+DTSTAMP:20250520T000000Z
+DTSTART;VALUE=DATE:20250520
+SUMMARY:Несчастье дня: Близка смерть самого человека.
+DESCRIPTION:申 shen / шэнь. Близка смерть самого человека. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250521-you@ghost-cry
+DTSTAMP:20250521T000000Z
+DTSTART;VALUE=DATE:20250521
+SUMMARY:Несчастье дня: Смерть отца или матери неминуема.
+DESCRIPTION:酉 you / ю. Смерть отца или матери неминуема. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250522-xu@ghost-cry
+DTSTAMP:20250522T000000Z
+DTSTART;VALUE=DATE:20250522
+SUMMARY:Несчастье дня: Предрекается чья-то случайная смерть.
+DESCRIPTION:戌 xu / сю. Предрекается чья-то случайная смерть. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250523-hai@ghost-cry
+DTSTAMP:20250523T000000Z
+DTSTART;VALUE=DATE:20250523
+SUMMARY:Несчастье дня: Возможны кража и утрата имущества
+DESCRIPTION:亥 hai / хай. Возможны кража и утрата имущества — берегитесь воров и потерянных вещей. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250524-zi@ghost-cry
+DTSTAMP:20250524T000000Z
+DTSTART;VALUE=DATE:20250524
+SUMMARY:Несчастье дня: Вред для ребёнка или домашних животных.
+DESCRIPTION:子 zi / цзы. Вред для ребёнка или домашних животных. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250525-chou@ghost-cry
+DTSTAMP:20250525T000000Z
+DTSTART;VALUE=DATE:20250525
+SUMMARY:Несчастье дня: Вскоре последует внезапная смерть старшего родственн...
+DESCRIPTION:丑 chou / чоу. Вскоре последует внезапная смерть старшего родственника. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250526-yin@ghost-cry
+DTSTAMP:20250526T000000Z
+DTSTART;VALUE=DATE:20250526
+SUMMARY:Несчастье дня: Дети в доме вскоре сильно испугаются чего-то.
+DESCRIPTION:寅 yin / инь. Дети в доме вскоре сильно испугаются чего-то. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250527-mao@ghost-cry
+DTSTAMP:20250527T000000Z
+DTSTART;VALUE=DATE:20250527
+SUMMARY:Несчастье дня: Большая катастрофа
+DESCRIPTION:卯 mao / мао. Большая катастрофа — вероятны пожар или наводнение. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250528-chen@ghost-cry
+DTSTAMP:20250528T000000Z
+DTSTART;VALUE=DATE:20250528
+SUMMARY:Несчастье дня: Умрёт беременная женщина.
+DESCRIPTION:辰 chen / чэнь. Умрёт беременная женщина. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250529-si@ghost-cry
+DTSTAMP:20250529T000000Z
+DTSTART;VALUE=DATE:20250529
+SUMMARY:Несчастье дня: Отец или мать уйдут в мир иной.
+DESCRIPTION:巳 si / сы. Отец или мать уйдут в мир иной. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250530-wu@ghost-cry
+DTSTAMP:20250530T000000Z
+DTSTART;VALUE=DATE:20250530
+SUMMARY:Несчастье дня: На человека падут проклятия и беды.
+DESCRIPTION:午 wu / у. На человека падут проклятия и беды. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250531-wei@ghost-cry
+DTSTAMP:20250531T000000Z
+DTSTART;VALUE=DATE:20250531
+SUMMARY:Несчастье дня: Беда случится с младшими членами семьи.
+DESCRIPTION:未 wei / вэй. Беда случится с младшими членами семьи. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250601-shen@ghost-cry
+DTSTAMP:20250601T000000Z
+DTSTART;VALUE=DATE:20250601
+SUMMARY:Несчастье дня: Близка смерть самого человека.
+DESCRIPTION:申 shen / шэнь. Близка смерть самого человека. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250602-you@ghost-cry
+DTSTAMP:20250602T000000Z
+DTSTART;VALUE=DATE:20250602
+SUMMARY:Несчастье дня: Смерть отца или матери неминуема.
+DESCRIPTION:酉 you / ю. Смерть отца или матери неминуема. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250603-xu@ghost-cry
+DTSTAMP:20250603T000000Z
+DTSTART;VALUE=DATE:20250603
+SUMMARY:Несчастье дня: Предрекается чья-то случайная смерть.
+DESCRIPTION:戌 xu / сю. Предрекается чья-то случайная смерть. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250604-hai@ghost-cry
+DTSTAMP:20250604T000000Z
+DTSTART;VALUE=DATE:20250604
+SUMMARY:Несчастье дня: Возможны кража и утрата имущества
+DESCRIPTION:亥 hai / хай. Возможны кража и утрата имущества — берегитесь воров и потерянных вещей. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250605-zi@ghost-cry
+DTSTAMP:20250605T000000Z
+DTSTART;VALUE=DATE:20250605
+SUMMARY:Несчастье дня: Вред для ребёнка или домашних животных.
+DESCRIPTION:子 zi / цзы. Вред для ребёнка или домашних животных. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250606-chou@ghost-cry
+DTSTAMP:20250606T000000Z
+DTSTART;VALUE=DATE:20250606
+SUMMARY:Несчастье дня: Вскоре последует внезапная смерть старшего родственн...
+DESCRIPTION:丑 chou / чоу. Вскоре последует внезапная смерть старшего родственника. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250607-yin@ghost-cry
+DTSTAMP:20250607T000000Z
+DTSTART;VALUE=DATE:20250607
+SUMMARY:Несчастье дня: Дети в доме вскоре сильно испугаются чего-то.
+DESCRIPTION:寅 yin / инь. Дети в доме вскоре сильно испугаются чего-то. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250608-mao@ghost-cry
+DTSTAMP:20250608T000000Z
+DTSTART;VALUE=DATE:20250608
+SUMMARY:Несчастье дня: Большая катастрофа
+DESCRIPTION:卯 mao / мао. Большая катастрофа — вероятны пожар или наводнение. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250609-chen@ghost-cry
+DTSTAMP:20250609T000000Z
+DTSTART;VALUE=DATE:20250609
+SUMMARY:Несчастье дня: Умрёт беременная женщина.
+DESCRIPTION:辰 chen / чэнь. Умрёт беременная женщина. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250610-si@ghost-cry
+DTSTAMP:20250610T000000Z
+DTSTART;VALUE=DATE:20250610
+SUMMARY:Несчастье дня: Отец или мать уйдут в мир иной.
+DESCRIPTION:巳 si / сы. Отец или мать уйдут в мир иной. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250611-wu@ghost-cry
+DTSTAMP:20250611T000000Z
+DTSTART;VALUE=DATE:20250611
+SUMMARY:Несчастье дня: На человека падут проклятия и беды.
+DESCRIPTION:午 wu / у. На человека падут проклятия и беды. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250612-wei@ghost-cry
+DTSTAMP:20250612T000000Z
+DTSTART;VALUE=DATE:20250612
+SUMMARY:Несчастье дня: Беда случится с младшими членами семьи.
+DESCRIPTION:未 wei / вэй. Беда случится с младшими членами семьи. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250613-shen@ghost-cry
+DTSTAMP:20250613T000000Z
+DTSTART;VALUE=DATE:20250613
+SUMMARY:Несчастье дня: Близка смерть самого человека.
+DESCRIPTION:申 shen / шэнь. Близка смерть самого человека. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250614-you@ghost-cry
+DTSTAMP:20250614T000000Z
+DTSTART;VALUE=DATE:20250614
+SUMMARY:Несчастье дня: Смерть отца или матери неминуема.
+DESCRIPTION:酉 you / ю. Смерть отца или матери неминуема. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250615-xu@ghost-cry
+DTSTAMP:20250615T000000Z
+DTSTART;VALUE=DATE:20250615
+SUMMARY:Несчастье дня: Предрекается чья-то случайная смерть.
+DESCRIPTION:戌 xu / сю. Предрекается чья-то случайная смерть. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250616-hai@ghost-cry
+DTSTAMP:20250616T000000Z
+DTSTART;VALUE=DATE:20250616
+SUMMARY:Несчастье дня: Возможны кража и утрата имущества
+DESCRIPTION:亥 hai / хай. Возможны кража и утрата имущества — берегитесь воров и потерянных вещей. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250617-zi@ghost-cry
+DTSTAMP:20250617T000000Z
+DTSTART;VALUE=DATE:20250617
+SUMMARY:Несчастье дня: Вред для ребёнка или домашних животных.
+DESCRIPTION:子 zi / цзы. Вред для ребёнка или домашних животных. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250618-chou@ghost-cry
+DTSTAMP:20250618T000000Z
+DTSTART;VALUE=DATE:20250618
+SUMMARY:Несчастье дня: Вскоре последует внезапная смерть старшего родственн...
+DESCRIPTION:丑 chou / чоу. Вскоре последует внезапная смерть старшего родственника. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250619-yin@ghost-cry
+DTSTAMP:20250619T000000Z
+DTSTART;VALUE=DATE:20250619
+SUMMARY:Несчастье дня: Дети в доме вскоре сильно испугаются чего-то.
+DESCRIPTION:寅 yin / инь. Дети в доме вскоре сильно испугаются чего-то. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250620-mao@ghost-cry
+DTSTAMP:20250620T000000Z
+DTSTART;VALUE=DATE:20250620
+SUMMARY:Несчастье дня: Большая катастрофа
+DESCRIPTION:卯 mao / мао. Большая катастрофа — вероятны пожар или наводнение. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250621-chen@ghost-cry
+DTSTAMP:20250621T000000Z
+DTSTART;VALUE=DATE:20250621
+SUMMARY:Несчастье дня: Умрёт беременная женщина.
+DESCRIPTION:辰 chen / чэнь. Умрёт беременная женщина. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250622-si@ghost-cry
+DTSTAMP:20250622T000000Z
+DTSTART;VALUE=DATE:20250622
+SUMMARY:Несчастье дня: Отец или мать уйдут в мир иной.
+DESCRIPTION:巳 si / сы. Отец или мать уйдут в мир иной. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250623-wu@ghost-cry
+DTSTAMP:20250623T000000Z
+DTSTART;VALUE=DATE:20250623
+SUMMARY:Несчастье дня: На человека падут проклятия и беды.
+DESCRIPTION:午 wu / у. На человека падут проклятия и беды. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250624-wei@ghost-cry
+DTSTAMP:20250624T000000Z
+DTSTART;VALUE=DATE:20250624
+SUMMARY:Несчастье дня: Беда случится с младшими членами семьи.
+DESCRIPTION:未 wei / вэй. Беда случится с младшими членами семьи. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250625-shen@ghost-cry
+DTSTAMP:20250625T000000Z
+DTSTART;VALUE=DATE:20250625
+SUMMARY:Несчастье дня: Близка смерть самого человека.
+DESCRIPTION:申 shen / шэнь. Близка смерть самого человека. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250626-you@ghost-cry
+DTSTAMP:20250626T000000Z
+DTSTART;VALUE=DATE:20250626
+SUMMARY:Несчастье дня: Смерть отца или матери неминуема.
+DESCRIPTION:酉 you / ю. Смерть отца или матери неминуема. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250627-xu@ghost-cry
+DTSTAMP:20250627T000000Z
+DTSTART;VALUE=DATE:20250627
+SUMMARY:Несчастье дня: Предрекается чья-то случайная смерть.
+DESCRIPTION:戌 xu / сю. Предрекается чья-то случайная смерть. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250628-hai@ghost-cry
+DTSTAMP:20250628T000000Z
+DTSTART;VALUE=DATE:20250628
+SUMMARY:Несчастье дня: Возможны кража и утрата имущества
+DESCRIPTION:亥 hai / хай. Возможны кража и утрата имущества — берегитесь воров и потерянных вещей. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250629-zi@ghost-cry
+DTSTAMP:20250629T000000Z
+DTSTART;VALUE=DATE:20250629
+SUMMARY:Несчастье дня: Вред для ребёнка или домашних животных.
+DESCRIPTION:子 zi / цзы. Вред для ребёнка или домашних животных. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250630-chou@ghost-cry
+DTSTAMP:20250630T000000Z
+DTSTART;VALUE=DATE:20250630
+SUMMARY:Несчастье дня: Вскоре последует внезапная смерть старшего родственн...
+DESCRIPTION:丑 chou / чоу. Вскоре последует внезапная смерть старшего родственника. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250701-yin@ghost-cry
+DTSTAMP:20250701T000000Z
+DTSTART;VALUE=DATE:20250701
+SUMMARY:Несчастье дня: Дети в доме вскоре сильно испугаются чего-то.
+DESCRIPTION:寅 yin / инь. Дети в доме вскоре сильно испугаются чего-то. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250702-mao@ghost-cry
+DTSTAMP:20250702T000000Z
+DTSTART;VALUE=DATE:20250702
+SUMMARY:Несчастье дня: Большая катастрофа
+DESCRIPTION:卯 mao / мао. Большая катастрофа — вероятны пожар или наводнение. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250703-chen@ghost-cry
+DTSTAMP:20250703T000000Z
+DTSTART;VALUE=DATE:20250703
+SUMMARY:Несчастье дня: Умрёт беременная женщина.
+DESCRIPTION:辰 chen / чэнь. Умрёт беременная женщина. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250704-si@ghost-cry
+DTSTAMP:20250704T000000Z
+DTSTART;VALUE=DATE:20250704
+SUMMARY:Несчастье дня: Отец или мать уйдут в мир иной.
+DESCRIPTION:巳 si / сы. Отец или мать уйдут в мир иной. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250705-wu@ghost-cry
+DTSTAMP:20250705T000000Z
+DTSTART;VALUE=DATE:20250705
+SUMMARY:Несчастье дня: На человека падут проклятия и беды.
+DESCRIPTION:午 wu / у. На человека падут проклятия и беды. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250706-wei@ghost-cry
+DTSTAMP:20250706T000000Z
+DTSTART;VALUE=DATE:20250706
+SUMMARY:Несчастье дня: Беда случится с младшими членами семьи.
+DESCRIPTION:未 wei / вэй. Беда случится с младшими членами семьи. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250707-shen@ghost-cry
+DTSTAMP:20250707T000000Z
+DTSTART;VALUE=DATE:20250707
+SUMMARY:Несчастье дня: Близка смерть самого человека.
+DESCRIPTION:申 shen / шэнь. Близка смерть самого человека. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250708-you@ghost-cry
+DTSTAMP:20250708T000000Z
+DTSTART;VALUE=DATE:20250708
+SUMMARY:Несчастье дня: Смерть отца или матери неминуема.
+DESCRIPTION:酉 you / ю. Смерть отца или матери неминуема. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250709-xu@ghost-cry
+DTSTAMP:20250709T000000Z
+DTSTART;VALUE=DATE:20250709
+SUMMARY:Несчастье дня: Предрекается чья-то случайная смерть.
+DESCRIPTION:戌 xu / сю. Предрекается чья-то случайная смерть. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250710-hai@ghost-cry
+DTSTAMP:20250710T000000Z
+DTSTART;VALUE=DATE:20250710
+SUMMARY:Несчастье дня: Возможны кража и утрата имущества
+DESCRIPTION:亥 hai / хай. Возможны кража и утрата имущества — берегитесь воров и потерянных вещей. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250711-zi@ghost-cry
+DTSTAMP:20250711T000000Z
+DTSTART;VALUE=DATE:20250711
+SUMMARY:Несчастье дня: Вред для ребёнка или домашних животных.
+DESCRIPTION:子 zi / цзы. Вред для ребёнка или домашних животных. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250712-chou@ghost-cry
+DTSTAMP:20250712T000000Z
+DTSTART;VALUE=DATE:20250712
+SUMMARY:Несчастье дня: Вскоре последует внезапная смерть старшего родственн...
+DESCRIPTION:丑 chou / чоу. Вскоре последует внезапная смерть старшего родственника. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250713-yin@ghost-cry
+DTSTAMP:20250713T000000Z
+DTSTART;VALUE=DATE:20250713
+SUMMARY:Несчастье дня: Дети в доме вскоре сильно испугаются чего-то.
+DESCRIPTION:寅 yin / инь. Дети в доме вскоре сильно испугаются чего-то. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250714-mao@ghost-cry
+DTSTAMP:20250714T000000Z
+DTSTART;VALUE=DATE:20250714
+SUMMARY:Несчастье дня: Большая катастрофа
+DESCRIPTION:卯 mao / мао. Большая катастрофа — вероятны пожар или наводнение. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250715-chen@ghost-cry
+DTSTAMP:20250715T000000Z
+DTSTART;VALUE=DATE:20250715
+SUMMARY:Несчастье дня: Умрёт беременная женщина.
+DESCRIPTION:辰 chen / чэнь. Умрёт беременная женщина. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250716-si@ghost-cry
+DTSTAMP:20250716T000000Z
+DTSTART;VALUE=DATE:20250716
+SUMMARY:Несчастье дня: Отец или мать уйдут в мир иной.
+DESCRIPTION:巳 si / сы. Отец или мать уйдут в мир иной. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250717-wu@ghost-cry
+DTSTAMP:20250717T000000Z
+DTSTART;VALUE=DATE:20250717
+SUMMARY:Несчастье дня: На человека падут проклятия и беды.
+DESCRIPTION:午 wu / у. На человека падут проклятия и беды. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250718-wei@ghost-cry
+DTSTAMP:20250718T000000Z
+DTSTART;VALUE=DATE:20250718
+SUMMARY:Несчастье дня: Беда случится с младшими членами семьи.
+DESCRIPTION:未 wei / вэй. Беда случится с младшими членами семьи. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250719-shen@ghost-cry
+DTSTAMP:20250719T000000Z
+DTSTART;VALUE=DATE:20250719
+SUMMARY:Несчастье дня: Близка смерть самого человека.
+DESCRIPTION:申 shen / шэнь. Близка смерть самого человека. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250720-you@ghost-cry
+DTSTAMP:20250720T000000Z
+DTSTART;VALUE=DATE:20250720
+SUMMARY:Несчастье дня: Смерть отца или матери неминуема.
+DESCRIPTION:酉 you / ю. Смерть отца или матери неминуема. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250721-xu@ghost-cry
+DTSTAMP:20250721T000000Z
+DTSTART;VALUE=DATE:20250721
+SUMMARY:Несчастье дня: Предрекается чья-то случайная смерть.
+DESCRIPTION:戌 xu / сю. Предрекается чья-то случайная смерть. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250722-hai@ghost-cry
+DTSTAMP:20250722T000000Z
+DTSTART;VALUE=DATE:20250722
+SUMMARY:Несчастье дня: Возможны кража и утрата имущества
+DESCRIPTION:亥 hai / хай. Возможны кража и утрата имущества — берегитесь воров и потерянных вещей. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250723-zi@ghost-cry
+DTSTAMP:20250723T000000Z
+DTSTART;VALUE=DATE:20250723
+SUMMARY:Несчастье дня: Вред для ребёнка или домашних животных.
+DESCRIPTION:子 zi / цзы. Вред для ребёнка или домашних животных. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250724-chou@ghost-cry
+DTSTAMP:20250724T000000Z
+DTSTART;VALUE=DATE:20250724
+SUMMARY:Несчастье дня: Вскоре последует внезапная смерть старшего родственн...
+DESCRIPTION:丑 chou / чоу. Вскоре последует внезапная смерть старшего родственника. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250725-yin@ghost-cry
+DTSTAMP:20250725T000000Z
+DTSTART;VALUE=DATE:20250725
+SUMMARY:Несчастье дня: Дети в доме вскоре сильно испугаются чего-то.
+DESCRIPTION:寅 yin / инь. Дети в доме вскоре сильно испугаются чего-то. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250726-mao@ghost-cry
+DTSTAMP:20250726T000000Z
+DTSTART;VALUE=DATE:20250726
+SUMMARY:Несчастье дня: Большая катастрофа
+DESCRIPTION:卯 mao / мао. Большая катастрофа — вероятны пожар или наводнение. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250727-chen@ghost-cry
+DTSTAMP:20250727T000000Z
+DTSTART;VALUE=DATE:20250727
+SUMMARY:Несчастье дня: Умрёт беременная женщина.
+DESCRIPTION:辰 chen / чэнь. Умрёт беременная женщина. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250728-si@ghost-cry
+DTSTAMP:20250728T000000Z
+DTSTART;VALUE=DATE:20250728
+SUMMARY:Несчастье дня: Отец или мать уйдут в мир иной.
+DESCRIPTION:巳 si / сы. Отец или мать уйдут в мир иной. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250729-wu@ghost-cry
+DTSTAMP:20250729T000000Z
+DTSTART;VALUE=DATE:20250729
+SUMMARY:Несчастье дня: На человека падут проклятия и беды.
+DESCRIPTION:午 wu / у. На человека падут проклятия и беды. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250730-wei@ghost-cry
+DTSTAMP:20250730T000000Z
+DTSTART;VALUE=DATE:20250730
+SUMMARY:Несчастье дня: Беда случится с младшими членами семьи.
+DESCRIPTION:未 wei / вэй. Беда случится с младшими членами семьи. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250731-shen@ghost-cry
+DTSTAMP:20250731T000000Z
+DTSTART;VALUE=DATE:20250731
+SUMMARY:Несчастье дня: Близка смерть самого человека.
+DESCRIPTION:申 shen / шэнь. Близка смерть самого человека. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250801-you@ghost-cry
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20250801
+SUMMARY:Несчастье дня: Смерть отца или матери неминуема.
+DESCRIPTION:酉 you / ю. Смерть отца или матери неминуема. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250802-xu@ghost-cry
+DTSTAMP:20250802T000000Z
+DTSTART;VALUE=DATE:20250802
+SUMMARY:Несчастье дня: Предрекается чья-то случайная смерть.
+DESCRIPTION:戌 xu / сю. Предрекается чья-то случайная смерть. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250803-hai@ghost-cry
+DTSTAMP:20250803T000000Z
+DTSTART;VALUE=DATE:20250803
+SUMMARY:Несчастье дня: Возможны кража и утрата имущества
+DESCRIPTION:亥 hai / хай. Возможны кража и утрата имущества — берегитесь воров и потерянных вещей. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250804-zi@ghost-cry
+DTSTAMP:20250804T000000Z
+DTSTART;VALUE=DATE:20250804
+SUMMARY:Несчастье дня: Вред для ребёнка или домашних животных.
+DESCRIPTION:子 zi / цзы. Вред для ребёнка или домашних животных. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250805-chou@ghost-cry
+DTSTAMP:20250805T000000Z
+DTSTART;VALUE=DATE:20250805
+SUMMARY:Несчастье дня: Вскоре последует внезапная смерть старшего родственн...
+DESCRIPTION:丑 chou / чоу. Вскоре последует внезапная смерть старшего родственника. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250806-yin@ghost-cry
+DTSTAMP:20250806T000000Z
+DTSTART;VALUE=DATE:20250806
+SUMMARY:Несчастье дня: Дети в доме вскоре сильно испугаются чего-то.
+DESCRIPTION:寅 yin / инь. Дети в доме вскоре сильно испугаются чего-то. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250807-mao@ghost-cry
+DTSTAMP:20250807T000000Z
+DTSTART;VALUE=DATE:20250807
+SUMMARY:Несчастье дня: Большая катастрофа
+DESCRIPTION:卯 mao / мао. Большая катастрофа — вероятны пожар или наводнение. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250808-chen@ghost-cry
+DTSTAMP:20250808T000000Z
+DTSTART;VALUE=DATE:20250808
+SUMMARY:Несчастье дня: Умрёт беременная женщина.
+DESCRIPTION:辰 chen / чэнь. Умрёт беременная женщина. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250809-si@ghost-cry
+DTSTAMP:20250809T000000Z
+DTSTART;VALUE=DATE:20250809
+SUMMARY:Несчастье дня: Отец или мать уйдут в мир иной.
+DESCRIPTION:巳 si / сы. Отец или мать уйдут в мир иной. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250810-wu@ghost-cry
+DTSTAMP:20250810T000000Z
+DTSTART;VALUE=DATE:20250810
+SUMMARY:Несчастье дня: На человека падут проклятия и беды.
+DESCRIPTION:午 wu / у. На человека падут проклятия и беды. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250811-wei@ghost-cry
+DTSTAMP:20250811T000000Z
+DTSTART;VALUE=DATE:20250811
+SUMMARY:Несчастье дня: Беда случится с младшими членами семьи.
+DESCRIPTION:未 wei / вэй. Беда случится с младшими членами семьи. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250812-shen@ghost-cry
+DTSTAMP:20250812T000000Z
+DTSTART;VALUE=DATE:20250812
+SUMMARY:Несчастье дня: Близка смерть самого человека.
+DESCRIPTION:申 shen / шэнь. Близка смерть самого человека. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250813-you@ghost-cry
+DTSTAMP:20250813T000000Z
+DTSTART;VALUE=DATE:20250813
+SUMMARY:Несчастье дня: Смерть отца или матери неминуема.
+DESCRIPTION:酉 you / ю. Смерть отца или матери неминуема. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250814-xu@ghost-cry
+DTSTAMP:20250814T000000Z
+DTSTART;VALUE=DATE:20250814
+SUMMARY:Несчастье дня: Предрекается чья-то случайная смерть.
+DESCRIPTION:戌 xu / сю. Предрекается чья-то случайная смерть. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250815-hai@ghost-cry
+DTSTAMP:20250815T000000Z
+DTSTART;VALUE=DATE:20250815
+SUMMARY:Несчастье дня: Возможны кража и утрата имущества
+DESCRIPTION:亥 hai / хай. Возможны кража и утрата имущества — берегитесь воров и потерянных вещей. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250816-zi@ghost-cry
+DTSTAMP:20250816T000000Z
+DTSTART;VALUE=DATE:20250816
+SUMMARY:Несчастье дня: Вред для ребёнка или домашних животных.
+DESCRIPTION:子 zi / цзы. Вред для ребёнка или домашних животных. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250817-chou@ghost-cry
+DTSTAMP:20250817T000000Z
+DTSTART;VALUE=DATE:20250817
+SUMMARY:Несчастье дня: Вскоре последует внезапная смерть старшего родственн...
+DESCRIPTION:丑 chou / чоу. Вскоре последует внезапная смерть старшего родственника. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250818-yin@ghost-cry
+DTSTAMP:20250818T000000Z
+DTSTART;VALUE=DATE:20250818
+SUMMARY:Несчастье дня: Дети в доме вскоре сильно испугаются чего-то.
+DESCRIPTION:寅 yin / инь. Дети в доме вскоре сильно испугаются чего-то. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250819-mao@ghost-cry
+DTSTAMP:20250819T000000Z
+DTSTART;VALUE=DATE:20250819
+SUMMARY:Несчастье дня: Большая катастрофа
+DESCRIPTION:卯 mao / мао. Большая катастрофа — вероятны пожар или наводнение. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250820-chen@ghost-cry
+DTSTAMP:20250820T000000Z
+DTSTART;VALUE=DATE:20250820
+SUMMARY:Несчастье дня: Умрёт беременная женщина.
+DESCRIPTION:辰 chen / чэнь. Умрёт беременная женщина. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250821-si@ghost-cry
+DTSTAMP:20250821T000000Z
+DTSTART;VALUE=DATE:20250821
+SUMMARY:Несчастье дня: Отец или мать уйдут в мир иной.
+DESCRIPTION:巳 si / сы. Отец или мать уйдут в мир иной. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250822-wu@ghost-cry
+DTSTAMP:20250822T000000Z
+DTSTART;VALUE=DATE:20250822
+SUMMARY:Несчастье дня: На человека падут проклятия и беды.
+DESCRIPTION:午 wu / у. На человека падут проклятия и беды. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250823-wei@ghost-cry
+DTSTAMP:20250823T000000Z
+DTSTART;VALUE=DATE:20250823
+SUMMARY:Несчастье дня: Беда случится с младшими членами семьи.
+DESCRIPTION:未 wei / вэй. Беда случится с младшими членами семьи. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250824-shen@ghost-cry
+DTSTAMP:20250824T000000Z
+DTSTART;VALUE=DATE:20250824
+SUMMARY:Несчастье дня: Близка смерть самого человека.
+DESCRIPTION:申 shen / шэнь. Близка смерть самого человека. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250825-you@ghost-cry
+DTSTAMP:20250825T000000Z
+DTSTART;VALUE=DATE:20250825
+SUMMARY:Несчастье дня: Смерть отца или матери неминуема.
+DESCRIPTION:酉 you / ю. Смерть отца или матери неминуема. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250826-xu@ghost-cry
+DTSTAMP:20250826T000000Z
+DTSTART;VALUE=DATE:20250826
+SUMMARY:Несчастье дня: Предрекается чья-то случайная смерть.
+DESCRIPTION:戌 xu / сю. Предрекается чья-то случайная смерть. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250827-hai@ghost-cry
+DTSTAMP:20250827T000000Z
+DTSTART;VALUE=DATE:20250827
+SUMMARY:Несчастье дня: Возможны кража и утрата имущества
+DESCRIPTION:亥 hai / хай. Возможны кража и утрата имущества — берегитесь воров и потерянных вещей. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250828-zi@ghost-cry
+DTSTAMP:20250828T000000Z
+DTSTART;VALUE=DATE:20250828
+SUMMARY:Несчастье дня: Вред для ребёнка или домашних животных.
+DESCRIPTION:子 zi / цзы. Вред для ребёнка или домашних животных. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250829-chou@ghost-cry
+DTSTAMP:20250829T000000Z
+DTSTART;VALUE=DATE:20250829
+SUMMARY:Несчастье дня: Вскоре последует внезапная смерть старшего родственн...
+DESCRIPTION:丑 chou / чоу. Вскоре последует внезапная смерть старшего родственника. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250830-yin@ghost-cry
+DTSTAMP:20250830T000000Z
+DTSTART;VALUE=DATE:20250830
+SUMMARY:Несчастье дня: Дети в доме вскоре сильно испугаются чего-то.
+DESCRIPTION:寅 yin / инь. Дети в доме вскоре сильно испугаются чего-то. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250831-mao@ghost-cry
+DTSTAMP:20250831T000000Z
+DTSTART;VALUE=DATE:20250831
+SUMMARY:Несчастье дня: Большая катастрофа
+DESCRIPTION:卯 mao / мао. Большая катастрофа — вероятны пожар или наводнение. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250901-chen@ghost-cry
+DTSTAMP:20250901T000000Z
+DTSTART;VALUE=DATE:20250901
+SUMMARY:Несчастье дня: Умрёт беременная женщина.
+DESCRIPTION:辰 chen / чэнь. Умрёт беременная женщина. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250902-si@ghost-cry
+DTSTAMP:20250902T000000Z
+DTSTART;VALUE=DATE:20250902
+SUMMARY:Несчастье дня: Отец или мать уйдут в мир иной.
+DESCRIPTION:巳 si / сы. Отец или мать уйдут в мир иной. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250903-wu@ghost-cry
+DTSTAMP:20250903T000000Z
+DTSTART;VALUE=DATE:20250903
+SUMMARY:Несчастье дня: На человека падут проклятия и беды.
+DESCRIPTION:午 wu / у. На человека падут проклятия и беды. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250904-wei@ghost-cry
+DTSTAMP:20250904T000000Z
+DTSTART;VALUE=DATE:20250904
+SUMMARY:Несчастье дня: Беда случится с младшими членами семьи.
+DESCRIPTION:未 wei / вэй. Беда случится с младшими членами семьи. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250905-shen@ghost-cry
+DTSTAMP:20250905T000000Z
+DTSTART;VALUE=DATE:20250905
+SUMMARY:Несчастье дня: Близка смерть самого человека.
+DESCRIPTION:申 shen / шэнь. Близка смерть самого человека. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250906-you@ghost-cry
+DTSTAMP:20250906T000000Z
+DTSTART;VALUE=DATE:20250906
+SUMMARY:Несчастье дня: Смерть отца или матери неминуема.
+DESCRIPTION:酉 you / ю. Смерть отца или матери неминуема. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250907-xu@ghost-cry
+DTSTAMP:20250907T000000Z
+DTSTART;VALUE=DATE:20250907
+SUMMARY:Несчастье дня: Предрекается чья-то случайная смерть.
+DESCRIPTION:戌 xu / сю. Предрекается чья-то случайная смерть. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250908-hai@ghost-cry
+DTSTAMP:20250908T000000Z
+DTSTART;VALUE=DATE:20250908
+SUMMARY:Несчастье дня: Возможны кража и утрата имущества
+DESCRIPTION:亥 hai / хай. Возможны кража и утрата имущества — берегитесь воров и потерянных вещей. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250909-zi@ghost-cry
+DTSTAMP:20250909T000000Z
+DTSTART;VALUE=DATE:20250909
+SUMMARY:Несчастье дня: Вред для ребёнка или домашних животных.
+DESCRIPTION:子 zi / цзы. Вред для ребёнка или домашних животных. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250910-chou@ghost-cry
+DTSTAMP:20250910T000000Z
+DTSTART;VALUE=DATE:20250910
+SUMMARY:Несчастье дня: Вскоре последует внезапная смерть старшего родственн...
+DESCRIPTION:丑 chou / чоу. Вскоре последует внезапная смерть старшего родственника. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250911-yin@ghost-cry
+DTSTAMP:20250911T000000Z
+DTSTART;VALUE=DATE:20250911
+SUMMARY:Несчастье дня: Дети в доме вскоре сильно испугаются чего-то.
+DESCRIPTION:寅 yin / инь. Дети в доме вскоре сильно испугаются чего-то. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250912-mao@ghost-cry
+DTSTAMP:20250912T000000Z
+DTSTART;VALUE=DATE:20250912
+SUMMARY:Несчастье дня: Большая катастрофа
+DESCRIPTION:卯 mao / мао. Большая катастрофа — вероятны пожар или наводнение. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250913-chen@ghost-cry
+DTSTAMP:20250913T000000Z
+DTSTART;VALUE=DATE:20250913
+SUMMARY:Несчастье дня: Умрёт беременная женщина.
+DESCRIPTION:辰 chen / чэнь. Умрёт беременная женщина. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250914-si@ghost-cry
+DTSTAMP:20250914T000000Z
+DTSTART;VALUE=DATE:20250914
+SUMMARY:Несчастье дня: Отец или мать уйдут в мир иной.
+DESCRIPTION:巳 si / сы. Отец или мать уйдут в мир иной. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250915-wu@ghost-cry
+DTSTAMP:20250915T000000Z
+DTSTART;VALUE=DATE:20250915
+SUMMARY:Несчастье дня: На человека падут проклятия и беды.
+DESCRIPTION:午 wu / у. На человека падут проклятия и беды. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250916-wei@ghost-cry
+DTSTAMP:20250916T000000Z
+DTSTART;VALUE=DATE:20250916
+SUMMARY:Несчастье дня: Беда случится с младшими членами семьи.
+DESCRIPTION:未 wei / вэй. Беда случится с младшими членами семьи. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250917-shen@ghost-cry
+DTSTAMP:20250917T000000Z
+DTSTART;VALUE=DATE:20250917
+SUMMARY:Несчастье дня: Близка смерть самого человека.
+DESCRIPTION:申 shen / шэнь. Близка смерть самого человека. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250918-you@ghost-cry
+DTSTAMP:20250918T000000Z
+DTSTART;VALUE=DATE:20250918
+SUMMARY:Несчастье дня: Смерть отца или матери неминуема.
+DESCRIPTION:酉 you / ю. Смерть отца или матери неминуема. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250919-xu@ghost-cry
+DTSTAMP:20250919T000000Z
+DTSTART;VALUE=DATE:20250919
+SUMMARY:Несчастье дня: Предрекается чья-то случайная смерть.
+DESCRIPTION:戌 xu / сю. Предрекается чья-то случайная смерть. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250920-hai@ghost-cry
+DTSTAMP:20250920T000000Z
+DTSTART;VALUE=DATE:20250920
+SUMMARY:Несчастье дня: Возможны кража и утрата имущества
+DESCRIPTION:亥 hai / хай. Возможны кража и утрата имущества — берегитесь воров и потерянных вещей. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250921-zi@ghost-cry
+DTSTAMP:20250921T000000Z
+DTSTART;VALUE=DATE:20250921
+SUMMARY:Несчастье дня: Вред для ребёнка или домашних животных.
+DESCRIPTION:子 zi / цзы. Вред для ребёнка или домашних животных. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250922-chou@ghost-cry
+DTSTAMP:20250922T000000Z
+DTSTART;VALUE=DATE:20250922
+SUMMARY:Несчастье дня: Вскоре последует внезапная смерть старшего родственн...
+DESCRIPTION:丑 chou / чоу. Вскоре последует внезапная смерть старшего родственника. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250923-yin@ghost-cry
+DTSTAMP:20250923T000000Z
+DTSTART;VALUE=DATE:20250923
+SUMMARY:Несчастье дня: Дети в доме вскоре сильно испугаются чего-то.
+DESCRIPTION:寅 yin / инь. Дети в доме вскоре сильно испугаются чего-то. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250924-mao@ghost-cry
+DTSTAMP:20250924T000000Z
+DTSTART;VALUE=DATE:20250924
+SUMMARY:Несчастье дня: Большая катастрофа
+DESCRIPTION:卯 mao / мао. Большая катастрофа — вероятны пожар или наводнение. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250925-chen@ghost-cry
+DTSTAMP:20250925T000000Z
+DTSTART;VALUE=DATE:20250925
+SUMMARY:Несчастье дня: Умрёт беременная женщина.
+DESCRIPTION:辰 chen / чэнь. Умрёт беременная женщина. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250926-si@ghost-cry
+DTSTAMP:20250926T000000Z
+DTSTART;VALUE=DATE:20250926
+SUMMARY:Несчастье дня: Отец или мать уйдут в мир иной.
+DESCRIPTION:巳 si / сы. Отец или мать уйдут в мир иной. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250927-wu@ghost-cry
+DTSTAMP:20250927T000000Z
+DTSTART;VALUE=DATE:20250927
+SUMMARY:Несчастье дня: На человека падут проклятия и беды.
+DESCRIPTION:午 wu / у. На человека падут проклятия и беды. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250928-wei@ghost-cry
+DTSTAMP:20250928T000000Z
+DTSTART;VALUE=DATE:20250928
+SUMMARY:Несчастье дня: Беда случится с младшими членами семьи.
+DESCRIPTION:未 wei / вэй. Беда случится с младшими членами семьи. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250929-shen@ghost-cry
+DTSTAMP:20250929T000000Z
+DTSTART;VALUE=DATE:20250929
+SUMMARY:Несчастье дня: Близка смерть самого человека.
+DESCRIPTION:申 shen / шэнь. Близка смерть самого человека. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20250930-you@ghost-cry
+DTSTAMP:20250930T000000Z
+DTSTART;VALUE=DATE:20250930
+SUMMARY:Несчастье дня: Смерть отца или матери неминуема.
+DESCRIPTION:酉 you / ю. Смерть отца или матери неминуема. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251001-xu@ghost-cry
+DTSTAMP:20251001T000000Z
+DTSTART;VALUE=DATE:20251001
+SUMMARY:Несчастье дня: Предрекается чья-то случайная смерть.
+DESCRIPTION:戌 xu / сю. Предрекается чья-то случайная смерть. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251002-hai@ghost-cry
+DTSTAMP:20251002T000000Z
+DTSTART;VALUE=DATE:20251002
+SUMMARY:Несчастье дня: Возможны кража и утрата имущества
+DESCRIPTION:亥 hai / хай. Возможны кража и утрата имущества — берегитесь воров и потерянных вещей. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251003-zi@ghost-cry
+DTSTAMP:20251003T000000Z
+DTSTART;VALUE=DATE:20251003
+SUMMARY:Несчастье дня: Вред для ребёнка или домашних животных.
+DESCRIPTION:子 zi / цзы. Вред для ребёнка или домашних животных. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251004-chou@ghost-cry
+DTSTAMP:20251004T000000Z
+DTSTART;VALUE=DATE:20251004
+SUMMARY:Несчастье дня: Вскоре последует внезапная смерть старшего родственн...
+DESCRIPTION:丑 chou / чоу. Вскоре последует внезапная смерть старшего родственника. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251005-yin@ghost-cry
+DTSTAMP:20251005T000000Z
+DTSTART;VALUE=DATE:20251005
+SUMMARY:Несчастье дня: Дети в доме вскоре сильно испугаются чего-то.
+DESCRIPTION:寅 yin / инь. Дети в доме вскоре сильно испугаются чего-то. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251006-mao@ghost-cry
+DTSTAMP:20251006T000000Z
+DTSTART;VALUE=DATE:20251006
+SUMMARY:Несчастье дня: Большая катастрофа
+DESCRIPTION:卯 mao / мао. Большая катастрофа — вероятны пожар или наводнение. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251007-chen@ghost-cry
+DTSTAMP:20251007T000000Z
+DTSTART;VALUE=DATE:20251007
+SUMMARY:Несчастье дня: Умрёт беременная женщина.
+DESCRIPTION:辰 chen / чэнь. Умрёт беременная женщина. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251008-si@ghost-cry
+DTSTAMP:20251008T000000Z
+DTSTART;VALUE=DATE:20251008
+SUMMARY:Несчастье дня: Отец или мать уйдут в мир иной.
+DESCRIPTION:巳 si / сы. Отец или мать уйдут в мир иной. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251009-wu@ghost-cry
+DTSTAMP:20251009T000000Z
+DTSTART;VALUE=DATE:20251009
+SUMMARY:Несчастье дня: На человека падут проклятия и беды.
+DESCRIPTION:午 wu / у. На человека падут проклятия и беды. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251010-wei@ghost-cry
+DTSTAMP:20251010T000000Z
+DTSTART;VALUE=DATE:20251010
+SUMMARY:Несчастье дня: Беда случится с младшими членами семьи.
+DESCRIPTION:未 wei / вэй. Беда случится с младшими членами семьи. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251011-shen@ghost-cry
+DTSTAMP:20251011T000000Z
+DTSTART;VALUE=DATE:20251011
+SUMMARY:Несчастье дня: Близка смерть самого человека.
+DESCRIPTION:申 shen / шэнь. Близка смерть самого человека. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251012-you@ghost-cry
+DTSTAMP:20251012T000000Z
+DTSTART;VALUE=DATE:20251012
+SUMMARY:Несчастье дня: Смерть отца или матери неминуема.
+DESCRIPTION:酉 you / ю. Смерть отца или матери неминуема. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251013-xu@ghost-cry
+DTSTAMP:20251013T000000Z
+DTSTART;VALUE=DATE:20251013
+SUMMARY:Несчастье дня: Предрекается чья-то случайная смерть.
+DESCRIPTION:戌 xu / сю. Предрекается чья-то случайная смерть. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251014-hai@ghost-cry
+DTSTAMP:20251014T000000Z
+DTSTART;VALUE=DATE:20251014
+SUMMARY:Несчастье дня: Возможны кража и утрата имущества
+DESCRIPTION:亥 hai / хай. Возможны кража и утрата имущества — берегитесь воров и потерянных вещей. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251015-zi@ghost-cry
+DTSTAMP:20251015T000000Z
+DTSTART;VALUE=DATE:20251015
+SUMMARY:Несчастье дня: Вред для ребёнка или домашних животных.
+DESCRIPTION:子 zi / цзы. Вред для ребёнка или домашних животных. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251016-chou@ghost-cry
+DTSTAMP:20251016T000000Z
+DTSTART;VALUE=DATE:20251016
+SUMMARY:Несчастье дня: Вскоре последует внезапная смерть старшего родственн...
+DESCRIPTION:丑 chou / чоу. Вскоре последует внезапная смерть старшего родственника. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251017-yin@ghost-cry
+DTSTAMP:20251017T000000Z
+DTSTART;VALUE=DATE:20251017
+SUMMARY:Несчастье дня: Дети в доме вскоре сильно испугаются чего-то.
+DESCRIPTION:寅 yin / инь. Дети в доме вскоре сильно испугаются чего-то. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251018-mao@ghost-cry
+DTSTAMP:20251018T000000Z
+DTSTART;VALUE=DATE:20251018
+SUMMARY:Несчастье дня: Большая катастрофа
+DESCRIPTION:卯 mao / мао. Большая катастрофа — вероятны пожар или наводнение. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251019-chen@ghost-cry
+DTSTAMP:20251019T000000Z
+DTSTART;VALUE=DATE:20251019
+SUMMARY:Несчастье дня: Умрёт беременная женщина.
+DESCRIPTION:辰 chen / чэнь. Умрёт беременная женщина. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251020-si@ghost-cry
+DTSTAMP:20251020T000000Z
+DTSTART;VALUE=DATE:20251020
+SUMMARY:Несчастье дня: Отец или мать уйдут в мир иной.
+DESCRIPTION:巳 si / сы. Отец или мать уйдут в мир иной. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251021-wu@ghost-cry
+DTSTAMP:20251021T000000Z
+DTSTART;VALUE=DATE:20251021
+SUMMARY:Несчастье дня: На человека падут проклятия и беды.
+DESCRIPTION:午 wu / у. На человека падут проклятия и беды. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251022-wei@ghost-cry
+DTSTAMP:20251022T000000Z
+DTSTART;VALUE=DATE:20251022
+SUMMARY:Несчастье дня: Беда случится с младшими членами семьи.
+DESCRIPTION:未 wei / вэй. Беда случится с младшими членами семьи. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251023-shen@ghost-cry
+DTSTAMP:20251023T000000Z
+DTSTART;VALUE=DATE:20251023
+SUMMARY:Несчастье дня: Близка смерть самого человека.
+DESCRIPTION:申 shen / шэнь. Близка смерть самого человека. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251024-you@ghost-cry
+DTSTAMP:20251024T000000Z
+DTSTART;VALUE=DATE:20251024
+SUMMARY:Несчастье дня: Смерть отца или матери неминуема.
+DESCRIPTION:酉 you / ю. Смерть отца или матери неминуема. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251025-xu@ghost-cry
+DTSTAMP:20251025T000000Z
+DTSTART;VALUE=DATE:20251025
+SUMMARY:Несчастье дня: Предрекается чья-то случайная смерть.
+DESCRIPTION:戌 xu / сю. Предрекается чья-то случайная смерть. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251026-hai@ghost-cry
+DTSTAMP:20251026T000000Z
+DTSTART;VALUE=DATE:20251026
+SUMMARY:Несчастье дня: Возможны кража и утрата имущества
+DESCRIPTION:亥 hai / хай. Возможны кража и утрата имущества — берегитесь воров и потерянных вещей. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251027-zi@ghost-cry
+DTSTAMP:20251027T000000Z
+DTSTART;VALUE=DATE:20251027
+SUMMARY:Несчастье дня: Вред для ребёнка или домашних животных.
+DESCRIPTION:子 zi / цзы. Вред для ребёнка или домашних животных. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251028-chou@ghost-cry
+DTSTAMP:20251028T000000Z
+DTSTART;VALUE=DATE:20251028
+SUMMARY:Несчастье дня: Вскоре последует внезапная смерть старшего родственн...
+DESCRIPTION:丑 chou / чоу. Вскоре последует внезапная смерть старшего родственника. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251029-yin@ghost-cry
+DTSTAMP:20251029T000000Z
+DTSTART;VALUE=DATE:20251029
+SUMMARY:Несчастье дня: Дети в доме вскоре сильно испугаются чего-то.
+DESCRIPTION:寅 yin / инь. Дети в доме вскоре сильно испугаются чего-то. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251030-mao@ghost-cry
+DTSTAMP:20251030T000000Z
+DTSTART;VALUE=DATE:20251030
+SUMMARY:Несчастье дня: Большая катастрофа
+DESCRIPTION:卯 mao / мао. Большая катастрофа — вероятны пожар или наводнение. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251031-chen@ghost-cry
+DTSTAMP:20251031T000000Z
+DTSTART;VALUE=DATE:20251031
+SUMMARY:Несчастье дня: Умрёт беременная женщина.
+DESCRIPTION:辰 chen / чэнь. Умрёт беременная женщина. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251101-si@ghost-cry
+DTSTAMP:20251101T000000Z
+DTSTART;VALUE=DATE:20251101
+SUMMARY:Несчастье дня: Отец или мать уйдут в мир иной.
+DESCRIPTION:巳 si / сы. Отец или мать уйдут в мир иной. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251102-wu@ghost-cry
+DTSTAMP:20251102T000000Z
+DTSTART;VALUE=DATE:20251102
+SUMMARY:Несчастье дня: На человека падут проклятия и беды.
+DESCRIPTION:午 wu / у. На человека падут проклятия и беды. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251103-wei@ghost-cry
+DTSTAMP:20251103T000000Z
+DTSTART;VALUE=DATE:20251103
+SUMMARY:Несчастье дня: Беда случится с младшими членами семьи.
+DESCRIPTION:未 wei / вэй. Беда случится с младшими членами семьи. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251104-shen@ghost-cry
+DTSTAMP:20251104T000000Z
+DTSTART;VALUE=DATE:20251104
+SUMMARY:Несчастье дня: Близка смерть самого человека.
+DESCRIPTION:申 shen / шэнь. Близка смерть самого человека. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251105-you@ghost-cry
+DTSTAMP:20251105T000000Z
+DTSTART;VALUE=DATE:20251105
+SUMMARY:Несчастье дня: Смерть отца или матери неминуема.
+DESCRIPTION:酉 you / ю. Смерть отца или матери неминуема. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251106-xu@ghost-cry
+DTSTAMP:20251106T000000Z
+DTSTART;VALUE=DATE:20251106
+SUMMARY:Несчастье дня: Предрекается чья-то случайная смерть.
+DESCRIPTION:戌 xu / сю. Предрекается чья-то случайная смерть. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251107-hai@ghost-cry
+DTSTAMP:20251107T000000Z
+DTSTART;VALUE=DATE:20251107
+SUMMARY:Несчастье дня: Возможны кража и утрата имущества
+DESCRIPTION:亥 hai / хай. Возможны кража и утрата имущества — берегитесь воров и потерянных вещей. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251108-zi@ghost-cry
+DTSTAMP:20251108T000000Z
+DTSTART;VALUE=DATE:20251108
+SUMMARY:Несчастье дня: Вред для ребёнка или домашних животных.
+DESCRIPTION:子 zi / цзы. Вред для ребёнка или домашних животных. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251109-chou@ghost-cry
+DTSTAMP:20251109T000000Z
+DTSTART;VALUE=DATE:20251109
+SUMMARY:Несчастье дня: Вскоре последует внезапная смерть старшего родственн...
+DESCRIPTION:丑 chou / чоу. Вскоре последует внезапная смерть старшего родственника. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251110-yin@ghost-cry
+DTSTAMP:20251110T000000Z
+DTSTART;VALUE=DATE:20251110
+SUMMARY:Несчастье дня: Дети в доме вскоре сильно испугаются чего-то.
+DESCRIPTION:寅 yin / инь. Дети в доме вскоре сильно испугаются чего-то. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251111-mao@ghost-cry
+DTSTAMP:20251111T000000Z
+DTSTART;VALUE=DATE:20251111
+SUMMARY:Несчастье дня: Большая катастрофа
+DESCRIPTION:卯 mao / мао. Большая катастрофа — вероятны пожар или наводнение. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251112-chen@ghost-cry
+DTSTAMP:20251112T000000Z
+DTSTART;VALUE=DATE:20251112
+SUMMARY:Несчастье дня: Умрёт беременная женщина.
+DESCRIPTION:辰 chen / чэнь. Умрёт беременная женщина. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251113-si@ghost-cry
+DTSTAMP:20251113T000000Z
+DTSTART;VALUE=DATE:20251113
+SUMMARY:Несчастье дня: Отец или мать уйдут в мир иной.
+DESCRIPTION:巳 si / сы. Отец или мать уйдут в мир иной. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251114-wu@ghost-cry
+DTSTAMP:20251114T000000Z
+DTSTART;VALUE=DATE:20251114
+SUMMARY:Несчастье дня: На человека падут проклятия и беды.
+DESCRIPTION:午 wu / у. На человека падут проклятия и беды. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251115-wei@ghost-cry
+DTSTAMP:20251115T000000Z
+DTSTART;VALUE=DATE:20251115
+SUMMARY:Несчастье дня: Беда случится с младшими членами семьи.
+DESCRIPTION:未 wei / вэй. Беда случится с младшими членами семьи. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251116-shen@ghost-cry
+DTSTAMP:20251116T000000Z
+DTSTART;VALUE=DATE:20251116
+SUMMARY:Несчастье дня: Близка смерть самого человека.
+DESCRIPTION:申 shen / шэнь. Близка смерть самого человека. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251117-you@ghost-cry
+DTSTAMP:20251117T000000Z
+DTSTART;VALUE=DATE:20251117
+SUMMARY:Несчастье дня: Смерть отца или матери неминуема.
+DESCRIPTION:酉 you / ю. Смерть отца или матери неминуема. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251118-xu@ghost-cry
+DTSTAMP:20251118T000000Z
+DTSTART;VALUE=DATE:20251118
+SUMMARY:Несчастье дня: Предрекается чья-то случайная смерть.
+DESCRIPTION:戌 xu / сю. Предрекается чья-то случайная смерть. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251119-hai@ghost-cry
+DTSTAMP:20251119T000000Z
+DTSTART;VALUE=DATE:20251119
+SUMMARY:Несчастье дня: Возможны кража и утрата имущества
+DESCRIPTION:亥 hai / хай. Возможны кража и утрата имущества — берегитесь воров и потерянных вещей. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251120-zi@ghost-cry
+DTSTAMP:20251120T000000Z
+DTSTART;VALUE=DATE:20251120
+SUMMARY:Несчастье дня: Вред для ребёнка или домашних животных.
+DESCRIPTION:子 zi / цзы. Вред для ребёнка или домашних животных. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251121-chou@ghost-cry
+DTSTAMP:20251121T000000Z
+DTSTART;VALUE=DATE:20251121
+SUMMARY:Несчастье дня: Вскоре последует внезапная смерть старшего родственн...
+DESCRIPTION:丑 chou / чоу. Вскоре последует внезапная смерть старшего родственника. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251122-yin@ghost-cry
+DTSTAMP:20251122T000000Z
+DTSTART;VALUE=DATE:20251122
+SUMMARY:Несчастье дня: Дети в доме вскоре сильно испугаются чего-то.
+DESCRIPTION:寅 yin / инь. Дети в доме вскоре сильно испугаются чего-то. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251123-mao@ghost-cry
+DTSTAMP:20251123T000000Z
+DTSTART;VALUE=DATE:20251123
+SUMMARY:Несчастье дня: Большая катастрофа
+DESCRIPTION:卯 mao / мао. Большая катастрофа — вероятны пожар или наводнение. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251124-chen@ghost-cry
+DTSTAMP:20251124T000000Z
+DTSTART;VALUE=DATE:20251124
+SUMMARY:Несчастье дня: Умрёт беременная женщина.
+DESCRIPTION:辰 chen / чэнь. Умрёт беременная женщина. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251125-si@ghost-cry
+DTSTAMP:20251125T000000Z
+DTSTART;VALUE=DATE:20251125
+SUMMARY:Несчастье дня: Отец или мать уйдут в мир иной.
+DESCRIPTION:巳 si / сы. Отец или мать уйдут в мир иной. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251126-wu@ghost-cry
+DTSTAMP:20251126T000000Z
+DTSTART;VALUE=DATE:20251126
+SUMMARY:Несчастье дня: На человека падут проклятия и беды.
+DESCRIPTION:午 wu / у. На человека падут проклятия и беды. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251127-wei@ghost-cry
+DTSTAMP:20251127T000000Z
+DTSTART;VALUE=DATE:20251127
+SUMMARY:Несчастье дня: Беда случится с младшими членами семьи.
+DESCRIPTION:未 wei / вэй. Беда случится с младшими членами семьи. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251128-shen@ghost-cry
+DTSTAMP:20251128T000000Z
+DTSTART;VALUE=DATE:20251128
+SUMMARY:Несчастье дня: Близка смерть самого человека.
+DESCRIPTION:申 shen / шэнь. Близка смерть самого человека. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251129-you@ghost-cry
+DTSTAMP:20251129T000000Z
+DTSTART;VALUE=DATE:20251129
+SUMMARY:Несчастье дня: Смерть отца или матери неминуема.
+DESCRIPTION:酉 you / ю. Смерть отца или матери неминуема. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251130-xu@ghost-cry
+DTSTAMP:20251130T000000Z
+DTSTART;VALUE=DATE:20251130
+SUMMARY:Несчастье дня: Предрекается чья-то случайная смерть.
+DESCRIPTION:戌 xu / сю. Предрекается чья-то случайная смерть. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251201-hai@ghost-cry
+DTSTAMP:20251201T000000Z
+DTSTART;VALUE=DATE:20251201
+SUMMARY:Несчастье дня: Возможны кража и утрата имущества
+DESCRIPTION:亥 hai / хай. Возможны кража и утрата имущества — берегитесь воров и потерянных вещей. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251202-zi@ghost-cry
+DTSTAMP:20251202T000000Z
+DTSTART;VALUE=DATE:20251202
+SUMMARY:Несчастье дня: Вред для ребёнка или домашних животных.
+DESCRIPTION:子 zi / цзы. Вред для ребёнка или домашних животных. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251203-chou@ghost-cry
+DTSTAMP:20251203T000000Z
+DTSTART;VALUE=DATE:20251203
+SUMMARY:Несчастье дня: Вскоре последует внезапная смерть старшего родственн...
+DESCRIPTION:丑 chou / чоу. Вскоре последует внезапная смерть старшего родственника. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251204-yin@ghost-cry
+DTSTAMP:20251204T000000Z
+DTSTART;VALUE=DATE:20251204
+SUMMARY:Несчастье дня: Дети в доме вскоре сильно испугаются чего-то.
+DESCRIPTION:寅 yin / инь. Дети в доме вскоре сильно испугаются чего-то. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251205-mao@ghost-cry
+DTSTAMP:20251205T000000Z
+DTSTART;VALUE=DATE:20251205
+SUMMARY:Несчастье дня: Большая катастрофа
+DESCRIPTION:卯 mao / мао. Большая катастрофа — вероятны пожар или наводнение. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251206-chen@ghost-cry
+DTSTAMP:20251206T000000Z
+DTSTART;VALUE=DATE:20251206
+SUMMARY:Несчастье дня: Умрёт беременная женщина.
+DESCRIPTION:辰 chen / чэнь. Умрёт беременная женщина. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251207-si@ghost-cry
+DTSTAMP:20251207T000000Z
+DTSTART;VALUE=DATE:20251207
+SUMMARY:Несчастье дня: Отец или мать уйдут в мир иной.
+DESCRIPTION:巳 si / сы. Отец или мать уйдут в мир иной. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251208-wu@ghost-cry
+DTSTAMP:20251208T000000Z
+DTSTART;VALUE=DATE:20251208
+SUMMARY:Несчастье дня: На человека падут проклятия и беды.
+DESCRIPTION:午 wu / у. На человека падут проклятия и беды. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251209-wei@ghost-cry
+DTSTAMP:20251209T000000Z
+DTSTART;VALUE=DATE:20251209
+SUMMARY:Несчастье дня: Беда случится с младшими членами семьи.
+DESCRIPTION:未 wei / вэй. Беда случится с младшими членами семьи. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251210-shen@ghost-cry
+DTSTAMP:20251210T000000Z
+DTSTART;VALUE=DATE:20251210
+SUMMARY:Несчастье дня: Близка смерть самого человека.
+DESCRIPTION:申 shen / шэнь. Близка смерть самого человека. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251211-you@ghost-cry
+DTSTAMP:20251211T000000Z
+DTSTART;VALUE=DATE:20251211
+SUMMARY:Несчастье дня: Смерть отца или матери неминуема.
+DESCRIPTION:酉 you / ю. Смерть отца или матери неминуема. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251212-xu@ghost-cry
+DTSTAMP:20251212T000000Z
+DTSTART;VALUE=DATE:20251212
+SUMMARY:Несчастье дня: Предрекается чья-то случайная смерть.
+DESCRIPTION:戌 xu / сю. Предрекается чья-то случайная смерть. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251213-hai@ghost-cry
+DTSTAMP:20251213T000000Z
+DTSTART;VALUE=DATE:20251213
+SUMMARY:Несчастье дня: Возможны кража и утрата имущества
+DESCRIPTION:亥 hai / хай. Возможны кража и утрата имущества — берегитесь воров и потерянных вещей. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251214-zi@ghost-cry
+DTSTAMP:20251214T000000Z
+DTSTART;VALUE=DATE:20251214
+SUMMARY:Несчастье дня: Вред для ребёнка или домашних животных.
+DESCRIPTION:子 zi / цзы. Вред для ребёнка или домашних животных. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251215-chou@ghost-cry
+DTSTAMP:20251215T000000Z
+DTSTART;VALUE=DATE:20251215
+SUMMARY:Несчастье дня: Вскоре последует внезапная смерть старшего родственн...
+DESCRIPTION:丑 chou / чоу. Вскоре последует внезапная смерть старшего родственника. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251216-yin@ghost-cry
+DTSTAMP:20251216T000000Z
+DTSTART;VALUE=DATE:20251216
+SUMMARY:Несчастье дня: Дети в доме вскоре сильно испугаются чего-то.
+DESCRIPTION:寅 yin / инь. Дети в доме вскоре сильно испугаются чего-то. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251217-mao@ghost-cry
+DTSTAMP:20251217T000000Z
+DTSTART;VALUE=DATE:20251217
+SUMMARY:Несчастье дня: Большая катастрофа
+DESCRIPTION:卯 mao / мао. Большая катастрофа — вероятны пожар или наводнение. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251218-chen@ghost-cry
+DTSTAMP:20251218T000000Z
+DTSTART;VALUE=DATE:20251218
+SUMMARY:Несчастье дня: Умрёт беременная женщина.
+DESCRIPTION:辰 chen / чэнь. Умрёт беременная женщина. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251219-si@ghost-cry
+DTSTAMP:20251219T000000Z
+DTSTART;VALUE=DATE:20251219
+SUMMARY:Несчастье дня: Отец или мать уйдут в мир иной.
+DESCRIPTION:巳 si / сы. Отец или мать уйдут в мир иной. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251220-wu@ghost-cry
+DTSTAMP:20251220T000000Z
+DTSTART;VALUE=DATE:20251220
+SUMMARY:Несчастье дня: На человека падут проклятия и беды.
+DESCRIPTION:午 wu / у. На человека падут проклятия и беды. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251221-wei@ghost-cry
+DTSTAMP:20251221T000000Z
+DTSTART;VALUE=DATE:20251221
+SUMMARY:Несчастье дня: Беда случится с младшими членами семьи.
+DESCRIPTION:未 wei / вэй. Беда случится с младшими членами семьи. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251222-shen@ghost-cry
+DTSTAMP:20251222T000000Z
+DTSTART;VALUE=DATE:20251222
+SUMMARY:Несчастье дня: Близка смерть самого человека.
+DESCRIPTION:申 shen / шэнь. Близка смерть самого человека. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251223-you@ghost-cry
+DTSTAMP:20251223T000000Z
+DTSTART;VALUE=DATE:20251223
+SUMMARY:Несчастье дня: Смерть отца или матери неминуема.
+DESCRIPTION:酉 you / ю. Смерть отца или матери неминуема. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251224-xu@ghost-cry
+DTSTAMP:20251224T000000Z
+DTSTART;VALUE=DATE:20251224
+SUMMARY:Несчастье дня: Предрекается чья-то случайная смерть.
+DESCRIPTION:戌 xu / сю. Предрекается чья-то случайная смерть. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251225-hai@ghost-cry
+DTSTAMP:20251225T000000Z
+DTSTART;VALUE=DATE:20251225
+SUMMARY:Несчастье дня: Возможны кража и утрата имущества
+DESCRIPTION:亥 hai / хай. Возможны кража и утрата имущества — берегитесь воров и потерянных вещей. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251226-zi@ghost-cry
+DTSTAMP:20251226T000000Z
+DTSTART;VALUE=DATE:20251226
+SUMMARY:Несчастье дня: Вред для ребёнка или домашних животных.
+DESCRIPTION:子 zi / цзы. Вред для ребёнка или домашних животных. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251227-chou@ghost-cry
+DTSTAMP:20251227T000000Z
+DTSTART;VALUE=DATE:20251227
+SUMMARY:Несчастье дня: Вскоре последует внезапная смерть старшего родственн...
+DESCRIPTION:丑 chou / чоу. Вскоре последует внезапная смерть старшего родственника. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251228-yin@ghost-cry
+DTSTAMP:20251228T000000Z
+DTSTART;VALUE=DATE:20251228
+SUMMARY:Несчастье дня: Дети в доме вскоре сильно испугаются чего-то.
+DESCRIPTION:寅 yin / инь. Дети в доме вскоре сильно испугаются чего-то. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251229-mao@ghost-cry
+DTSTAMP:20251229T000000Z
+DTSTART;VALUE=DATE:20251229
+SUMMARY:Несчастье дня: Большая катастрофа
+DESCRIPTION:卯 mao / мао. Большая катастрофа — вероятны пожар или наводнение. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251230-chen@ghost-cry
+DTSTAMP:20251230T000000Z
+DTSTART;VALUE=DATE:20251230
+SUMMARY:Несчастье дня: Умрёт беременная женщина.
+DESCRIPTION:辰 chen / чэнь. Умрёт беременная женщина. Это шуточный 12-дневный цикл.
+END:VEVENT
+BEGIN:VEVENT
+UID:20251231-si@ghost-cry
+DTSTAMP:20251231T000000Z
+DTSTART;VALUE=DATE:20251231
+SUMMARY:Несчастье дня: Отец или мать уйдут в мир иной.
+DESCRIPTION:巳 si / сы. Отец или мать уйдут в мир иной. Это шуточный 12-дневный цикл.
+END:VEVENT
+END:VCALENDAR
